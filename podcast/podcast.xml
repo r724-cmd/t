@@ -1,63 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
 	<channel>
-		<atom:link href="http://podcasts.protocol-radio.com/podcast.xml" rel="self" type="application/rss+xml"/>
-		<title>Protocol Radio</title>
+		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
+		<title>The Space Of Future: Radio</title>
 		<pubDate>Thu, 04 Mar 2021 14:40:00 +0000</pubDate>
 		<lastBuildDate>Thu, 04 Mar 2021 14:40:00 +0000</lastBuildDate>
 		<generator>RadioPush.co</generator>
-		<link>https://protocol-radio.com/</link>
+		<link>https://www.thespaceoffuture.com/</link>
 		<language>en-us</language>
-		<copyright><![CDATA[&#x2117; &amp; &#xA9; 2021 Nicky Romero]]></copyright>
-		<managingEditor>info@protocol-radio.com (Nicky Romero)</managingEditor>
+		<copyright><![CDATA[&#x2117; &amp; &#xA9; 2021 TSOF: Radio]]></copyright>
+		<managingEditor>radio@thespaceoffuture.com</managingEditor>
 		<image>
-			<title>Protocol Radio</title>
-			<url>http://podcasts.protocol-radio.com/podcast/protocol-radio-podcast.jpg</url>
-			<link><![CDATA[https://protocol-radio.com/]]></link>
+			<title>The Space Of Future: Radio</title>
+			<url>https://raw.githubusercontent.com/raxlabel/p/main/20210305_233633.jpg</url>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
 		</image>
-		<itunes:summary><![CDATA[Make sure you tune in every week to catch up to all latest tunes, remixes, bootlegs and more! 
-More info: http://protocol-radio.com http://nickyromero.com]]></itunes:summary>
-		<itunes:author>Nicky Romero</itunes:author>
+		<itunes:summary><![CDATA[Make sure you tune in every week to catch up to all latest tunes, remixes, bootlegs and more! More info: https://thespaceoffuture.com]]></itunes:summary>
+		<itunes:author>TSOF: Radio</itunes:author>
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:category text="Music"/>
-		<itunes:image href="http://podcasts.protocol-radio.com/podcast/protocol-radio-podcast.jpg"/>
+		<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/20210305_233633.jpg"/>
 		<itunes:owner>
-			<itunes:name>Nicky Romero</itunes:name>
-			<itunes:email>info@protocol-radio.com</itunes:email>
+			<itunes:name>TSOF: Radio</itunes:name>
+			<itunes:email>radio@thespaceoffuture.com</itunes:email>
 		</itunes:owner>
-		<description><![CDATA[Make sure you tune in every week to catch up to all latest tunes, remixes, bootlegs and more! 
-More info: http://protocol-radio.com http://nickyromero.com]]></description>
-		<itunes:subtitle><![CDATA[Protocol Radio by Nicky Romero]]></itunes:subtitle>
+		<description><![CDATA[Make sure you tune in every week to catch up to all latest tunes, remixes, bootlegs and more! More info: https://thespaceoffuture.com]]></description>
+		<itunes:subtitle><![CDATA[The Space Of Future: Radio]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
-		<itunes:new-feed-url>http://podcasts.protocol-radio.com/podcast.xml</itunes:new-feed-url>
+		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		<item>
-			<title>Protocol Radio #1</title>
-			<link><![CDATA[https://protocol-radio.com/]]></link>
-			<description><![CDATA[Tracklist:
+			<title>The Space Of Future: Radio #1</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ On this week’s TSOF: Radio has world premieres and brand new music from the likes of Avicii, Kygo, Martin Garrix, Selena Gomez, Nicky Romero, Taylor swift, OneRepublic and many more.
 
-01 Nicky Romero - Toulouse (Tomorrowland Edit)
-02 Daddy's Groove - Turn The Lights Down (David Guetta Re Work)
-03 Zedd - Spectrum (Deniz Koyu Remix)
-04 Zedd & Nicky Romero - Human
-05 Steve Angello - Yeah
-06 Alesso - Years
-07 Nicky Romero & Calvin Harris - Iron
-08 Sia & Flo Rida - Wild Ones (David Guetta & Nicky Romero Remix)
-09 Otto Knows/Coldplay/One Republic - Million Voices (Thomas Gold Edit)
-10 Nicky Romero ft NERVO - Like Home
-11 Vida & Jakob Liedholm - ID
-12 My Digital Enemy & Rob Marmot - African Drop (Tom Staar Remix)
-13 Calvin Harris ft Ne-Yo - Let's Go (Swanky Tunes Remix)]]></description>
-			<author>Nicky Romero</author>
+Tracklist:
+
+01. The Space Of Future - Intro 
+02. Kygo, Avicii, Sandro Cavazza - Forever Yours (Avicii Tribute) 
+03. The Weeknd - Blinding Lights  
+04. R3HAB, ZAYN & Jungleboi - Flames (Frank Walker Remix) 
+05. Nicky Romero - Back To You
+06. Marshmello - Alone
+07. Justin Timberlake - CAN'T STOP THE FEELING!
+08. Imagine Dragons - Thunder
+09. Taylor Swift - Blank Space
+10. OneRepublic - Counting Stars
+11. TONES AND I - DANCE MONKEY
+12. Alesso & Armin van Buuren - Leave A Little Love (Club Mix)
+13. Avicii - Without You Audio ft. Sandro Cavazza
+14. Sia - Original (from the Dolittle soundtrack)
+15. K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri)
+16. Matisse & Sadko - Meant To Be
+17. Selena Gomez, Rauw Alejandro - Baila Conmigo
+18. Martin Garrix feat. Tove Lo - Pressure]]></description>
+			<author>TSOF: Radio</author>
 			<enclosure url="http://podcasts.protocol-radio.com/podcast/PRR001-NR.m4a" length="81919753" type="audio/x-m4a"/>
 			<guid isPermaLink="false">http://podcasts.protocol-radio.com/podcast/PRR001-NR.m4a</guid>
 			<pubDate>Fri, 17 Aug 2012 22:00:00 +0000</pubDate>
 			<itunes:author>Nicky Romero</itunes:author>
-			<itunes:summary><![CDATA[Protocol Radio by Nicky Romero]]></itunes:summary>
+			<itunes:summary><![CDATA[The Space Of Future: Radio]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>00:56:00</itunes:duration>
-			<itunes:image href="http://podcasts.protocol-radio.com/podcast/protocolradiocover.jpg" />
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/20210305_233633.jpg" />
 		</item>
 	</channel>
 </rss>
