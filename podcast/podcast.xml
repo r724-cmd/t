@@ -30,6 +30,45 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		<item>
+			<title>The Space Of Future: Radio #2</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ On this week’s TSOF: Radio has world premieres and brand new music from the likes of Imagine Dragons, ILLENIUM, R3HAB, Mike Wiliams, Nicky Romero, Jonas Aden, Syn Cole and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Diviners, BUNT, Tom Bailey - Out Of Time
+03. Imagine Dragons - Follow You
+04. R3HAB x Timmy Trumpet x W&W - Distant Memory
+05. ILLENIUM & Iann Dior- First Time
+06. Mike Wiliams & Jonas Aden I Hope You Know (Chill Mix)
+07. Syn Cole ft kaspara - Breathe (Sunrise Mix) [Ultra]
+08. Kryzonium - Tearout
+09. Nicky Romero - You Used To
+10. Nick Jonas - 2Drunk
+11. James Arthur - Medicine
+12. Loretta - left u on read
+13. Declan J Donovan - Before You Let Me Go
+14. Gretta Ray - Bigger Than Me
+15. Ali Gatie - Can't Let You Go
+16. bülow - First Place
+17. Christopher - Fall So Hard
+18. Ellis - Orbit
+19. slenderbodies and tim atlas - focus
+20. Nhat Bya - HUE
+21. LunchMoney Lewis - Ocean]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://hearthis.at/tsof/radio-2/listen.mp3?s=UPo" length="71982240" type="audio/mpeg"/>
+			<guid isPermaLink="false">tsof-radio-002</guid>
+			<pubDate>Sat, 13 Mar 2021 07:27:00 +0100</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[On this week’s TSOF: Radio has world premieres and brand new music from the likes of Imagine Dragons, ILLENIUM, R3HAB, Mike Wiliams, Nicky Romero, Jonas Aden, Syn Cole and many more.
+]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:60:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/20210305_233633.jpg" />
+		</item>
+		<item>
 			<title>The Space Of Future: Radio #1</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
 			<description><![CDATA[ On this week’s TSOF: Radio has world premieres and brand new music from the likes of Avicii, Kygo, Martin Garrix, Selena Gomez, Nicky Romero, Taylor swift, OneRepublic and many more.
