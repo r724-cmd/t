@@ -30,6 +30,45 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		<item>
+			<title>The Space Of Future: Radio #3</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ On this week’s TSOF: Radio has world premieres and brand new music from the likes of Lost Frequencies, Alesso, Brando, KSHMR, Don Diablo, Avicii, Marshmello and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Lost Frequencies - Rise
+03. Alesso x CORSAK - Going Dumb
+04. Brando - Yes or No
+05. Camp Kubrick & Don Diablo - falling for you
+06. KSHMR - I Will Be A Lion (feat. Jake Reese)
+07. Souveek & Jxjay - Follow Up
+08. ArtLec - We'll Stay Together
+09. Borgeous - Oh Baby Oh Baby
+10. Dermot Kennedy - Power Over Me
+11. GOLDHOUSE ,Mokita - Washout
+12. Hotel Garuda - Olivia (LILO Remix)
+13. Hoved - Let You Go (Tungevaag Edit)
+14. Justus - Meant To Be
+15. Manse & JRL feat. Jonny Rose - Outlaws
+16. OTR - Heart ft. Shallou
+17. Roman Müller - Blame (Lyrics) ft. Matt Wills
+18. Vigiland, Alexander Tidebrink - Were The Same
+19. Wild Cards - It Girl feat. Lucas Marx
+20. Pontifexx, Audax, Chris Willis - You Are The One
+21. Avicii - Waiting For Love
+22. 2KBABY x Marshmello - Like This]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://hearthis.at/tsof/radio-3/listen.mp3?s=4Os" length="72059520" type="audio/mpeg"/>
+			<guid isPermaLink="false">tsof-radio-003</guid>
+			<pubDate>Sat, 20 Mar 2021 03:15:53 +0100</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[On this week’s TSOF: Radio has world premieres and brand new music from the likes of Lost Frequencies, Alesso, Brando, KSHMR, Don Diablo, Avicii, Marshmello and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>1:00:02</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/20210305_233633.jpg" />
+		</item>
+		<item>
 			<title>The Space Of Future: Radio #2</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
 			<description><![CDATA[ On this week’s TSOF: Radio has world premieres and brand new music from the likes of Imagine Dragons, ILLENIUM, R3HAB, Mike Wiliams, Nicky Romero, Jonas Aden, Syn Cole and many more.
