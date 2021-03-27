@@ -30,6 +30,42 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		<item>
+			<title>The Space Of Future: Radio #4</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ On this week’s TSOF: Radio has world premieres and brand new music from the likes of Cheat Codes, Florian Picasso, Brando, Maroon 5, Calvin Harris, Marshmello, Edwin Bennett and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Cheat Codes x Kris Kross Amsterdam - SEX
+03. Florian Picasso - Get Away
+04. Monocule - You Don't Know
+05. Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion
+06. Miley Cyrus - Prisoner (Lyrics) ft. Dua Lipa
+07. Youngr feat. Bright Sparks - Brothers & Sisters
+08. MasterBroke - Good Bye
+09. Edwin Bennett - Love For Trance Melody
+10. Bebe Rexha - Sacrifice
+11. Calvin Harris - This Is What You Came For ft. Rihanna
+12. Justin Bieber - Hold On
+13. Mabel - Don't Call Me Up
+14. MANLO - Dancing in the Sky (feat. Danny Belda)
+15. Michael Calfan x INNA - Call Me Now
+16. Nick Jonas - This Is Heaven
+17. Powfu - death bed (coffee for your head) ft. beabadoobee
+18. Rita Ora x Imanbek - Big ft. David Guetta, Gunna
+19. Ali Gatie x Marshmello x Ty Dolla $ign - Do You Believe]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://hearthis.at/tsof/radio-4/listen.mp3?s=5fo" length="72504480" type="audio/mpeg"/>
+			<guid isPermaLink="false">tsof-radio-004</guid>
+			<pubDate>Sat, 27 Mar 2021 07:18:24 +0100</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[On this week’s TSOF: Radio has world premieres and brand new music from the likes of Cheat Codes, Florian Picasso, Brando, Maroon 5, Calvin Harris, Marshmello, Edwin Bennett and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>1:00:25</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/20210305_233633.jpg" />
+		</item>
+		<item>
 			<title>The Space Of Future: Radio #3</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
 			<description><![CDATA[ On this week’s TSOF: Radio has world premieres and brand new music from the likes of Lost Frequencies, Alesso, Brando, KSHMR, Don Diablo, Avicii, Marshmello and many more.
