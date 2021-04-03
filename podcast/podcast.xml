@@ -30,6 +30,43 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		<item>
+			<title>The Space Of Future: Radio #5</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ On this week's TSOF: Radio has world premieres and brand new music from the likes of Martin Jensen, Don Diablo, Kashyap, Alan Walker, R3HAB, Afrojack, Armin var Buuren and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Martin Jensen - Solo Dance
+03. Don Diablo - Eyes Closed
+04. ID - Dawn [RAX Label]
+05. AuRa x Alan Walker - Dead Girl!
+06. R3HAB x Fafaq x DNF - Ringtone
+07. Sultan + Shepard feat. Nadia Ali & IRO - Almost Home
+08. Mike Perry & Mila Josef - If I Ruled The World
+09. Vicetone - Somebody Like You ft. Lena Leon
+10. Petit Biscuit - Parachute (Tony Romera Remix)
+11. Andrew Rayel - Silver Lining (DubVision Remix)
+12. Timmy Trumpet & Afrojack - Stay Mine
+13. Armin var Buuren - Rain (FERR by Ferry Corsten Rework)
+14. Tim Hox & NEVERGLOW - Thymus
+15. Joel Corry x RAYE - David Guetta - BED - [Joel Corry VIP Mix]
+16. Bossfight - Endgame
+17. Matt Nash & Mojjo - Kryptonite (feat. Lucas Ariel)
+18. Stadiumx & Timmo Hendriks ft. Robbie Rosen - Remember
+19. Kiiara - So Sick [feat. blackbear] [Martin Jensen Remix]
+20. Five Feet Apart - Don't Give Up On Me]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://hearthis.at/tsof/radio-5/listen.mp3?s=7Fh" length="72002400" type="audio/mpeg"/>
+			<guid isPermaLink="false">tsof-radio-005</guid>
+			<pubDate>Sat, 03 Apr 2021 04:40:45 +0200</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of Martin Jensen, Don Diablo, Kashyap, Alan Walker, R3HAB, Afrojack, Armin var Buuren and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>1:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/20210305_233633.jpg" />
+		</item>
+		<item>
 			<title>The Space Of Future: Radio #4</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
 			<description><![CDATA[ On this week’s TSOF: Radio has world premieres and brand new music from the likes of Cheat Codes, Florian Picasso, Brando, Maroon 5, Calvin Harris, Marshmello, Edwin Bennett and many more.
