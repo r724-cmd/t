@@ -1,50 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
 	<channel>
-		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
-		<title>The Space Of Future: Radio</title>
+		<atom:link href="https://radio.thespaceoffuture.com/new/raxnext.xml" rel="self" type="application/rss+xml"/>
+		<title>RAX NEXT</title>
 		<pubDate>Sat, 03 Apr 2021 13:15:00 +0000</pubDate>
 		<lastBuildDate>Sat, 03 Apr 2021 13:15:00 +0000</lastBuildDate>
 		<generator>RadioPush.co</generator>
-		<link>https://thespaceoffuture.com/</link>
+		<link>https://raxlabel.com/</link>
 		<language>en-us</language>
-		<copyright><![CDATA[2021 TSOF: Radio]]></copyright>
-		<managingEditor>radio@thespaceoffuture.com</managingEditor>
+		<copyright><![CDATA[2021 RAX NEXT]]></copyright>
+		<managingEditor>raxnext@thespaceoffuture.com</managingEditor>
 		<image>
-			<title>The Space Of Future: Radio</title>
+			<title>RAX NEXT</title>
 			<url>https://raw.githubusercontent.com/raxlabel/p/main/20210305_233633.jpg</url>
 			<link><![CDATA[https://thespaceoffuture.com/]]></link>
 		</image>
 		<itunes:summary><![CDATA[Make sure you tune in every week to catch up to all latest tunes, remixes, bootlegs and more! More info: https://thespaceoffuture.com]]></itunes:summary>
-		<itunes:author>TSOF: Radio</itunes:author>
+		<itunes:author>RAX NEXT</itunes:author>
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:category text="Music"/>
 		<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/20210305_233633.jpg"/>
 		<itunes:owner>
-			<itunes:name>TSOF: Radio</itunes:name>
-			<itunes:email>radio@thespaceoffuture.com</itunes:email>
+			<itunes:name>RAX NEXT</itunes:name>
+			<itunes:email>raxnext@thespaceoffuture.com</itunes:email>
 		</itunes:owner>
 		<description><![CDATA[Make sure you tune in every week to catch up to all latest tunes, remixes, bootlegs and more! More info: https://thespaceoffuture.com]]></description>
-		<itunes:subtitle><![CDATA[The Space Of Future: Radio]]></itunes:subtitle>
+		<itunes:subtitle><![CDATA[RAX NEXT]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
-		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/dcast.xml</itunes:new-feed-url>
+		<itunes:new-feed-url>https://radio.thespaceoffuture.com/new/raxnext.xml</itunes:new-feed-url>
 		
 		<item>
-			<title>The Space Of Future: Radio #5</title>
+			<title>Welcome</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
 			<description><![CDATA[ On this week's TSOF: Radio has world premieres and brand new music from the likes of Martin Jensen, Don Diablo, Kashyap, Alan Walker, R3HAB, Afrojack, Armin var Buuren and many more.
-
-Tracklist:
-
-01. The Space Of Future - Intro
-02. Martin Jensen - Solo Dance
-03. Don Diablo - Eyes Closed
-04. ID - Dawn [RAX Label]
-05. AuRa x Alan Walker - Dead Girl!
-06. R3HAB x Fafaq x DNF - Ringtone]]></description>
-			<author>TSOF: Radio</author>
+]]></description>
+			<author>RAX NEXT</author>
 			<enclosure url="https://hearthis.at/tsof/radio-5/listen.mp3?s=7Fh" length="72002400" type="audio/mpeg"/>
-			<guid isPermaLink="false">tsof-radio-005</guid>
+			<guid isPermaLink="false">rax-next-01</guid>
 			<pubDate>Sat, 03 Apr 2021 11:15:00 +0000</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of Martin Jensen, Don Diablo, Kashyap, Alan Walker, R3HAB, Afrojack, Armin var Buuren and many more.]]></itunes:summary>
