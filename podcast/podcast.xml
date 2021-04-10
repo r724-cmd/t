@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 03 Apr 2021 13:15:00 +0000</pubDate>
-		<lastBuildDate>Sat, 03 Apr 2021 13:15:00 +0000</lastBuildDate>
+		<pubDate>Sat, 10 Apr 2021 14:39:22 +0200</pubDate>
+		<lastBuildDate>Sat, 10 Apr 2021 14:39:22 +0200</lastBuildDate>
 		<generator>RadioPush.co</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,6 +29,44 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		<item>
+			<title>The Space Of Future: Radio #6</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ On this week's TSOF: Radio has world premieres and brand new music from the likes of R3HAB, Justin Mylo, Ellis, Alan Walker, AREA21, Armin van Buuren, Vicetone and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. R3HAB x Andy Grammer - Close To You
+03. Jay Hardway - In My Head
+04. Justin Mylo - I Remember (feat. STRNGRS)
+05. Ellis - The Taste [Monstercat Release]
+06. AREA21 - La La La
+07. Armin van Buuren feat. RBVLN - Weight Of The World
+08. Vicetone - Elevate
+09. Liu, Stonefox, Alok, AVIAN GRAYS - All I Want (AVIAN GRAYS Remix)
+10. Plastik Funk, Sickrate, Rentz & Repiet - Never Let Go
+11. Zoe Wees - Girls Like Us (Felix Jaehn Remix)
+12. Jubël - 4AM
+13. Palm Trees & MdL - Fast Lane ft. Abi F Jones
+14. Niiko x SWAE - Friends
+15. Courier - San Francisco (Alex Schulz Remix)
+16. Vincent & The Griswolds - Lost & In Love
+17. Kbubs & Jake Neumar - Top Of New York
+18. Nightcall, Karma Child & Gia Koka - Wasted Love
+19. Wholm & Cageman - Born Again (feat. Michael Shynes)
+20. Gavin James - Always (Alan Walker Remix)
+21. LYOD x The Bayton Fields - Do It For Love]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://hearthis.at/tsof/radio-6/listen.mp3?s=1LK" length="72214560" type="audio/mpeg"/>
+			<guid isPermaLink="false">tsof-radio-006</guid>
+			<pubDate>Sat, 10 Apr 2021 14:39:22 +0200</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of R3HAB, Justin Mylo, Ellis, Alan Walker, AREA21, Armin van Buuren, Vicetone and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>1:00:10</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/20210305_233633.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #5</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
