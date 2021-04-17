@@ -30,6 +30,44 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		<item>
+			<title>The Space Of Future: Radio #7</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ On this week's TSOF: Radio has world premieres and brand new music from the likes of Funk D, TMW, Kygo, Alan Walker, Tiësto, Lucky Rose, Julian Jordan and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Funk D x Ayin x Fasto - Lipstick (ft. Brendan Cleary)
+03. TMW - All of My Love (Riggi & Piros Remix)
+04. Kygo - Gone Are The Days (Visualizer) ft. James Gillespie
+05. Aiobahn & Mick Mazoo - Never Go Back
+06. AZU - High (feat. Hannah Abrahim)
+07. Chico Rose & Williams88 - Reach For The Sky
+08. DJ Snake, Selena Gomez - Selfish Love (Tiësto Remix)
+09. Eren AB - Beauty Lies With You
+10. GAMPER & DADONI - Perfect (For Somebody Else) (feat. Dewain Whitmore)
+11. J. Balvin, Khalid - Otra Noche Sin Ti
+12. Julian Jordan & WILL K - The Box
+13. Lewis Capaldi - Someone You Loved (Laibert Remix)
+14. Lucky Rose x Jason Walker - Help [Ultra Music]
+15. Mauve - Here Comes The Sun
+16. Milly, Farruko, Jay Wheeler, Nio Garcia & Amenazzy - No Te Enamores (Alan Walker Remix)
+17. SICK INDIVIDUALS feat EKKO - Flame
+18. Steve Aoki & Farruko - Aire
+19. Sylow, Yann Muller, Marphil - Sunrise
+20. Diplo - MMXX XIII (feat. Lunice) [Kornél Kovács Remix]
+]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://hearthis.at/tsof/radio-7/listen.mp3?s=4Fv" length="70922880" type="audio/mpeg"/>
+			<guid isPermaLink="false">tsof-radio-007</guid>
+			<pubDate>Sat, 17 Apr 2021 07:11:22 +0200</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of Funk D, TMW, Kygo, Alan Walker, Tiësto, Lucky Rose, Julian Jordan and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>59:06</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/20210305_233633.jpg" />
+		</item>
+		<item>
 			<title>The Space Of Future: Radio #6</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
 			<description><![CDATA[ On this week's TSOF: Radio has world premieres and brand new music from the likes of R3HAB, Justin Mylo, Ellis, Alan Walker, AREA21, Armin van Buuren, Vicetone and many more.
