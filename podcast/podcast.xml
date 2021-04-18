@@ -3,9 +3,9 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 17 Apr 2021 14:39:22 +0200</pubDate>
-		<lastBuildDate>Sat, 17 Apr 2021 14:39:22 +0200</lastBuildDate>
-		<generator>thespaceoffuture.com</generator>
+		<pubDate>Sat, 17 Apr 2021 14:39:22 +0000</pubDate>
+		<lastBuildDate>Sat, 17 Apr 2021 14:39:22 +0000</lastBuildDate>
+		<generator>raxlabel.com</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
 		<copyright><![CDATA[2021 TSOF: Radio]]></copyright>
@@ -60,7 +60,7 @@ Tracklist:
 			<author>TSOF: Radio</author>
 			<enclosure url="https://hearthis.at/tsof/radio-7/listen.mp3?s=4Fv" length="70922880" type="audio/mpeg"/>
 			<guid isPermaLink="false">tsof-radio-007</guid>
-			<pubDate>Sat, 17 Apr 2021 14:39:22 +0200</pubDate>
+			<pubDate>Sat, 17 Apr 2021 14:39:22 +0000</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of Funk D, TMW, Kygo, Alan Walker, Tiësto, Lucky Rose, Julian Jordan and many more.]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
@@ -98,7 +98,7 @@ Tracklist:
 			<author>TSOF: Radio</author>
 			<enclosure url="https://hearthis.at/tsof/radio-6/listen.mp3?s=1LK" length="72214560" type="audio/mpeg"/>
 			<guid isPermaLink="false">tsof-radio-006</guid>
-			<pubDate>Sat, 10 Apr 2021 14:39:22 +0200</pubDate>
+			<pubDate>Sat, 10 Apr 2021 14:39:22 +0000</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of R3HAB, Justin Mylo, Ellis, Alan Walker, AREA21, Armin van Buuren, Vicetone and many more.]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
@@ -135,7 +135,7 @@ Tracklist:
 			<author>TSOF: Radio</author>
 			<enclosure url="https://hearthis.at/tsof/radio-5/listen.mp3?s=7Fh" length="72002400" type="audio/mpeg"/>
 			<guid isPermaLink="false">tsof-radio-005</guid>
-			<pubDate>Sat, 03 Apr 2021 11:15:00 +0200</pubDate>
+			<pubDate>Sat, 03 Apr 2021 11:15:00 +0000</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of Martin Jensen, Don Diablo, Kashyap, Alan Walker, R3HAB, Afrojack, Armin var Buuren and many more.]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
@@ -171,7 +171,7 @@ Tracklist:
 			<author>TSOF: Radio</author>
 			<enclosure url="https://hearthis.at/tsof/radio-4/listen.mp3?s=5fo" length="72504480" type="audio/mpeg"/>
 			<guid isPermaLink="false">tsof-radio-004</guid>
-			<pubDate>Sat, 27 Mar 2021 07:18:24 +0200</pubDate>
+			<pubDate>Sat, 27 Mar 2021 07:18:24 +0000</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[On this week’s TSOF: Radio has world premieres and brand new music from the likes of Cheat Codes, Florian Picasso, Brando, Maroon 5, Calvin Harris, Marshmello, Edwin Bennett and many more.]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
@@ -210,7 +210,7 @@ Tracklist:
 			<author>TSOF: Radio</author>
 			<enclosure url="https://hearthis.at/tsof/radio-a3/listen.mp3?s=BTE" length="72059520" type="audio/mpeg"/>
 			<guid isPermaLink="false">tsof-radio-003</guid>
-			<pubDate>Sat, 20 Mar 2021 03:15:53 +0200</pubDate>
+			<pubDate>Sat, 20 Mar 2021 03:15:53 +0000</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[On this week’s TSOF: Radio has world premieres and brand new music from the likes of Lost Frequencies, Alesso, Brando, KSHMR, Don Diablo, Avicii, Marshmello and many more.]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
@@ -248,7 +248,7 @@ Tracklist:
 			<author>TSOF: Radio</author>
 			<enclosure url="https://hearthis.at/tsof/the-space-of-future-radio-2/listen.mp3?s=UPo" length="71982240" type="audio/mpeg"/>
 			<guid isPermaLink="false">tsof-radio-002</guid>
-			<pubDate>Sat, 13 Mar 2021 07:27:00 +0200</pubDate>
+			<pubDate>Sat, 13 Mar 2021 07:27:00 +0000</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[On this week’s TSOF: Radio has world premieres and brand new music from the likes of Imagine Dragons, ILLENIUM, R3HAB, Mike Wiliams, Nicky Romero, Jonas Aden, Syn Cole and many more.
 ]]></itunes:summary>
@@ -284,7 +284,7 @@ Tracklist:
 			<author>TSOF: Radio</author>
 			<enclosure url="https://hearthis.at/tsof/the-space-of-future-radio-1/listen.mp3?s=GB0" length="63102477" type="audio/mpeg"/>
 			<guid isPermaLink="false">tsof-radio-001</guid>
-			<pubDate>Wednes, 03 Mar 2021 22:00:00 +0200</pubDate>
+			<pubDate>Wed, 03 Mar 2021 22:00:00 +0000</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[On this week’s TSOF: Radio has world premieres and brand new music from the likes of Avicii, Kygo, Martin Garrix, Selena Gomez, Nicky Romero, Taylor swift, OneRepublic and many more.]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
