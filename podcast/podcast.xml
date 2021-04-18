@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 17 Apr 2021 07:11:22 +0200</pubDate>
-		<lastBuildDate>Sat, 17 Apr 2021 07:11:22 +0200</lastBuildDate>
+		<pubDate>Sat, 17 Apr 2021 14:39:22 +0200</pubDate>
+		<lastBuildDate>Sat, 17 Apr 2021 14:39:22 +0200</lastBuildDate>
 		<generator>thespaceoffuture.com</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -60,7 +60,7 @@ Tracklist:
 			<author>TSOF: Radio</author>
 			<enclosure url="https://hearthis.at/tsof/radio-7/listen.mp3?s=4Fv" length="70922880" type="audio/mpeg"/>
 			<guid isPermaLink="false">tsof-radio-007</guid>
-			<pubDate>Sat, 17 Apr 2021 07:11:22 +0200</pubDate>
+			<pubDate>Sat, 17 Apr 2021 14:39:22 +0200</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of Funk D, TMW, Kygo, Alan Walker, Tiësto, Lucky Rose, Julian Jordan and many more.]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
