@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 24 Apr 2021 03:14:24 +0000</pubDate>
-		<lastBuildDate>Sat, 24 Apr 2021 03:14:24 +0000</lastBuildDate>
+		<pubDate>Sat, 24 Apr 2021 14:39:22 +0000</pubDate>
+		<lastBuildDate>Sat, 24 Apr 2021 14:39:22 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -60,7 +60,7 @@ Tracklist:
 			<author>TSOF: Radio</author>
 			<enclosure url="https://s3.castbox.fm/93/3d/02/a8a01d420cb7258105cf56f5b0.mp3" type="audio/mp3" length="57617831"/>
 			<guid isPermaLink="false">tsof-radio-008</guid>
-			<pubDate>Sat, 24 Apr 2021 03:14:24 +0000</pubDate>
+			<pubDate>Sat, 24 Apr 2021 14:39:22 +0000</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of Janamina Bandara, Armin van Buuren, Nicky Romero, Tobu, Sandro Cavazza, AVIAN GRAYS, Lost Frequencies and many more.]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
