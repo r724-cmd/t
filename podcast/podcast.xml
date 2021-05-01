@@ -30,6 +30,42 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		<item>
+			<title>The Space Of Future: Radio #9</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ On this week's TSOF: Radio has world premieres and brand new music from the likes of David Guetta, Afrojack, CMC$, Alex Sombo, A R I Z O N A, Matisse & Sadko, Armin van Buuren and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Afrojack & David Guetta - Hero
+03. Richello - All We Are
+04. Dimitri Vegas & Like Mike vs Vini Vici - Get In Trouble (So What)(Audiotricz Remix)
+05. CMC$, Gia Koka, Yael Nahar, Jonas Kröper - Oh Mama
+06. Alex Sombo x MVRE - Be Free (feat. Alex Sombo)
+07. Louis The Child - So What feat. A R I Z O N A
+08. Jeffrey Sutorius feat. Krimsonn - Nostalgia
+09. Matisse & Sadko, Alex Aris - Heal Me
+10. Hook N Sling, Galantis, Karen Harding - The Best
+11. Diplo - One By One (feat. Elderbrook & Andhim)
+12. Sarah Reeves - Not My Style (R3HAB Remix)
+13. Above & Beyond, Armin van Buuren - Show Me Love (Sander van Doorn Extended Remix)
+14. Sofia Carson & Tiësto Fool's Gold (24 Karat Gold Edition)
+15. Damon Sharpe and Josh Cumbee - Lost Years
+16. Triple M, Samlight & Stage Republic - Fields Of Gold
+17. Zwette - Rooftop in Amsterdam ft. Alex Hosking
+18. Curtis Lowe - Lost in You
+19. Caseet - Flow Over Others]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/64/f5/78/ce286149beafae1c4ee2a0f9c3.mp3" type="audio/mp3" length="72028800"/>
+			<guid isPermaLink="false">tsof-radio-009</guid>
+			<pubDate>Sat, 01 May 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of David Guetta, Afrojack, CMC$, Alex Sombo, A R I Z O N A, Matisse & Sadko, Armin van Buuren and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
+		<item>
 			<title>The Space Of Future: Radio #8</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
 			<description><![CDATA[ On this week's TSOF: Radio has world premieres and brand new music from the likes of Janamina Bandara, Armin van Buuren, Nicky Romero, Tobu, Sandro Cavazza, AVIAN GRAYS, Lost Frequencies and many more.
