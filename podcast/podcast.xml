@@ -29,6 +29,45 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #10</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ On this week's TSOF: Radio has world premieres and brand new music from the likes of Jay Hardway, Armin van Buuren, The DeadZone, OneRepublic, Matoma, Brando, Don Diablo, ILLENIUM and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Jay Hardway - Outer Space
+03. Armin van Buuren feat. Sarah Reeves - Tell Me Why
+04. The DeadZone - Meet Again
+05. OneRepublic - Run
+06. Matoma & Brando - The Bender
+07. Don Diablo - Through The Storm ft. Jordan Mackampa
+08. ILLENIUM with Valerie Broussard and Nurko- Sideways
+09. Monocule - Find You
+10. Gianni Marino & OVYD - Wild Night (feat. Sanjana Ghosh)
+11. Tujamo, Kelvyn Colt - Taking You Home
+12. KYANU - You
+13. Bassjackers x MOTi - Helter Skelter
+14. Clean Bandit - Higher (feat. iann dior) [Dimitri Vegas & Like Mike Remix]
+15. Offer Nissim & MR BLACK - Show Me Love
+16. Josh Wantie ft Conor Maynard - NEVER LET ME GO
+17. Miles & Miles - She's So High
+18. Vinil, Sterkøl - Big Me Up
+19. A Billion Robots - Is It Love (feat. Mike L)
+20. CALVO - Broke In Amsterdam
+21. Eile - Nightfall]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/86/23/ad/0bab7f4b85a1d57f3f7729c150.mp3" type="audio/mp3" length="57617325"/>
+			<guid isPermaLink="false">tsof-radio-010</guid>
+			<pubDate>Sat, 08 May 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of Jay Hardway, Armin van Buuren, The DeadZone, OneRepublic, Matoma, Brando, Don Diablo, ILLENIUM and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #9</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
