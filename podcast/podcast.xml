@@ -3,7 +3,7 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 01 May 2021 03:42:20 +0000</pubDate>
+		<pubDate>Sat, 15 May 2021 03:42:20 +0000</pubDate>
 		<lastBuildDate>Sat, 15 May 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
@@ -63,7 +63,7 @@ Tracklist:
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of Martin Garrix, Armin van Buuren, Bono, Alan Walker, Syn Cole, Mike Williams, Alesso, David Guetta and many more.]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
-			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:duration>01:00:00</itunes:duration>
 			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
 		</item>
 		<item>
