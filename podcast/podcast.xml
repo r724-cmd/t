@@ -29,7 +29,43 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #11</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ On this week's TSOF: Radio has world premieres and brand new music from the likes of Martin Garrix, Armin van Buuren, Bono, Alan Walker, Syn Cole, Mike Williams, Alesso, David Guetta and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Martin Garrix feat. Bono & The Edge - We Are The People [UEFA EURO 2020 Song]
+03. Alan Walker x Conor Maynard - Believers (Official Montage)
+04. Syn Cole ft Miya Miya - Feels Like Love [Ultra]
+05. Mike Williams, Felix Jaehn - Without You ft. Jordan Shaw
+06. Armin van Buuren & Tom Staar feat. Josha Daniel - Let Go
+07. Nhat Bya - Party Perfect
+08. Jana Music - Water
+09. Janee - Can't Let You Go
+10. MADDIX - Home
+11. R3HAB & Jolin Tsai - Stars Align (Alle Farben Remix)
+12. Christopher - Fall So Hard (Tungevaag Remix)
+13. Joel Corry x RAYE - David Guetta - BED - [David Guetta Festival Mix]
+14. Maryn & AXYL - Downfall
+15. Katy Perry - Electric
+16. Alesso x CORSAK - Going Dumb (Low Steppa Remix)
+17. Diversify, Susanne Davis - Sober (feat. Brooks & WEISS)
+18. Janieck - Northern Lights (ARTY Remix)
+19. Masked Wolf - Astronaut In The Ocean (G-Eazy & DDG Remix)
+20. Meduza, Elroii - Headrush]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/02/5d/94/e5ac3241e8bc3150e0519a6bc2.mp3" type="audio/mp3" length="72003840"/>
+			<guid isPermaLink="false">tsof-radio-011</guid>
+			<pubDate>Sat, 08 May 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of Martin Garrix, Armin van Buuren, Bono, Alan Walker, Syn Cole, Mike Williams, Alesso, David Guetta and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #10</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
