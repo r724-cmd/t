@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 15 May 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 15 May 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 22 May 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 22 May 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,6 +29,46 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #12</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ On this week's TSOF: Radio has world premieres and brand new music from the likes of David Guetta, Armaan Malik, KSHMR, DubVision, AREA21, Jay Hardway, BUNT., Armin van Buuren and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Galantis, David Guetta & Little Mix - Heartbreak Anthem
+03. Armaan Malik, Eric Nam with KSHMR - Echo
+04. Don Diablo presents Camp Kubrick - Borderline
+05. DubVision & Deep Vice - Bad Blood
+06. Ehrling - Don't Wanna Miss You
+07. Heni, PFR, CMC$ - Faith (feat. Laura White)
+08. Jay Hardway - Bird Song (Frontliner Remix)
+09. Jake Scott - Meet My Shadow
+10. Karl Michael - Explicit (R3HAB Remix)
+11. Louis X & Metatune - Down In The Rain
+12. Klingande & Wrabel - Big Love
+13. Major Lazer - Titans (feat. Sia & Labrinth) (Imanbek Remix)
+14. Metrush & GSPR - Somebody (Stadiumx Edit)
+15. Ojasvi Agnihotri - Finding Myself
+16. Petit Biscuit (with Diplo) - Pick Your Battles
+17. Quintino, Thomas Gold - Quechua
+18. Roxy Tones - Dancing In The Corner ft. Dominic Neill
+19. Slushii - Valhalla
+20. Armin van Buuren & Avalan - Should I Wait (Armin van Buuren presents Rising Star Remix)
+21. AREA21 - Pogo
+22. BUNT. - Hurricane (feat. HON & SMBDY) (4AM Drive Mix)]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/92/3f/e2/27ca524dcba31dcbb6fa855e9f.mp3" type="audio/mp3" length="72804000"/>
+			<guid isPermaLink="false">tsof-radio-012</guid>
+			<pubDate>Sat, 22 May 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[On this week's TSOF: Radio has world premieres and brand new music from the likes of David Guetta, Armaan Malik, KSHMR, DubVision, AREA21, Jay Hardway, BUNT., Armin van Buuren and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:40</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #11</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
