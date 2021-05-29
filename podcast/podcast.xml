@@ -29,7 +29,43 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #13</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Pascal Letoublon, Pelago, Winona Oak, Sophie Francis, Sam Feldt, The Vamps, Jonas Blue and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Pascal Letoublon - Feelings Undercover
+03. Pelago - Home feat. Maximus
+04. Winona Oak & Robin Schulz - Oxygen (Wave Wave Remix)
+05. Sophie Francis - On My Way
+06. Sam Feldt & Sam Fischer - Pick Me Up
+07. Return to the skies [WAVE - Memories (feat. Marcus Alexander, JYRYMY Remix)]
+08. Regard, Troye Sivan, Tate McRae – You (Topic Remix)
+09. AJ Mitchell - Slow Dance (Sam Feldt Remix) ft. Ava Max
+10. Alok, Bloodline - Another You (feat. The Vamps)
+11. AVIAN GRAYS - Crying 'Bout You
+12. Bruno Martini, New Hope Club - Somebody That You Loved
+13. Cash Cash - Too Late (feat. Wiz Khalifa & Lukas Graham) [Riggi & Piros Remix]
+14. Jonas Blue, LÉON - Hear Me Say
+15. Kharfi x Xuitcasecity - Unlikely
+16. M-22 - Can't Stop Loving You (Poolside Mix)
+17. Master KG & David Guetta - Shine Your Light [Feat Akon]
+18. Matt Maeson - Hallucinogenics (Seeb Remix)
+19. Acid Tymekk - Rave Generation
+20. Mauve - Another You]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/1d/02/94/686b0f432f99ab958e7aa1585a.mp3" type="audio/mp3" length="57617709"/>
+			<guid isPermaLink="false">tsof-radio-013</guid>
+			<pubDate>Sat, 29 May 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Pascal Letoublon, Pelago, Winona Oak, Sophie Francis, Sam Feldt, The Vamps, Jonas Blue and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #12</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
