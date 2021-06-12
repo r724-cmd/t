@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 05 Jun 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 05 Jun 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 12 Jun 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 12 Jun 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,6 +29,44 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #15</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Don Diablo, Alan Walker, Drove, Frank Pierce, Tobu, Armin Van Buuren and many more.
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Don Diablo - Too Much To Ask ft. Dolla $ign
+03. Dropgun - Somebody
+04. Drove & Justin Caruso - Intoxicated
+05. Frank Pierce - From You, For Me ft. Sam Vasami
+06. Tobu - Highway Right Into My Soul
+07. Jnel - Ticking Clocks (ft. Kyra Grove)
+09. Armin Van Buuren, Sander van Doom - Jonson's Play
+10. Kenn Colt - Sun Goes Down
+11. Saxsquatch, Half an Orange - Moondance
+12. Nivicious feat. AdamAlexander - Name Tag (Hallman Remix)
+13. Novaspace, Vade - Safe And Sound
+14. Matisso & Sadko - OK (feat. Lovespeake)
+15. OOTORO - Breaking Away
+16. Silience - Gold (Diviners Remix)
+17. Tep No - Sippin' On Feelings (Francis VI Remix)
+18. Skye Holland - Underwater
+19. STVCKS - Walk Away
+20. Sultan + Shepard, Le Youth - Skipping Stones
+21. Alan Walker, Imanbek - Sweet Dreams
+22. Tom Budin & Kopa - Wandering Souls]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/7c/3c/04/1d311045daa443c0a68ecf26de.mp3" type="audio/mp3" length="72022080"/>
+			<guid isPermaLink="false">tsof-radio-015</guid>
+			<pubDate>Sat, 12 Jun 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Don Diablo, Alan Walker, Drove, Frank Pierce, Tobu, Armin Van Buuren and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #14 (World Environment Day edition)</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
