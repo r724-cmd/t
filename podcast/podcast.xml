@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 12 Jun 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 12 Jun 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 19 Jun 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 19 Jun 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -30,6 +30,44 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
+		<item>
+			<title>The Space Of Future: Radio #16</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By AREA21, Ben Platt, Alok, Faith, AVIAN GRAYS, Martin Garrix and many more.
+Tracklist:
+
+01. The Space Of Future - Intro
+02. AREA21 - Mona Lisa
+03. Ben Platt - Imagine (Tiësto Remix)
+04. Alok - Body On My Mind
+05. Faith - Giving Everything
+06. AVIAN GRAYS - Crush
+07. Martin Garrix feat. Bono & The Edge - We Are The People [UEFA EURO 2020 Song]
+09. Hazel & Mike Perry - Hero
+10. R3HAB x Kelvin Jones - Downtown
+11. Steve Void - Party Is A Groovy Thing
+12. Thomas Gold - Stuck On Ur Love
+13. KSI - Holiday
+14. Mike Perry & Hazel - Hero
+15. ILLENIUM with Valerie Broussard and Nurko- Sideways (Laidback Luke Remix)
+16. Ivan Guijosa - Escape Your Love
+17. Aspyer - The Rest Of Your Life (feat. Karin Park)
+18. Mulshine - Heartbeat
+19. Decco - I Didn't Know ft. James Gillespie
+20. Forester - The Flood
+21. Steve Aoki, GATTÜSO & Aukoustics Feat. MKLA - Losing My Religion
+22. Seeb & KIDDO - Last Dance (Hartzon Remix)
+23. Ryos feat. Maggie Szabo - Midsummer Nights]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/ae/94/73/578e984ba09afd21fcbcf96614.mp3" type="audio/mp3" length="46270176"/>
+			<guid isPermaLink="false">tsof-radio-016</guid>
+			<pubDate>Sat, 19 Jun 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By AREA21, Ben Platt, Alok, Faith, AVIAN GRAYS, Martin Garrix and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #15</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
