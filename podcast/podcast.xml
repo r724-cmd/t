@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 19 Jun 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 19 Jun 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 26 Jun 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 26 Jun 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,7 +29,45 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #17</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By In Your Wake, NEEDTOBREATHE, Armin van Buuren, R3HAB, Dimitri Vegas & Like Mike, Mathematics and many more.
+Tracklist:
+
+01. The Space Of Future - Intro
+02. In Your Wake - Time Flies With You [RAX Label]
+03. NEEDTOBREATHE - 'I Wanna Remember (feat. Carrie Underwood)' (R3HAB Remix)
+04. Armin van Buuren feat. SKOLES - Goodbye
+05. BLEM, ILY - Go Up
+06. David Bisbal, Luis Fonsi - Dos Veces
+07. Dimitri Vegas & Like Mike, Felix Jaehn & Nea - Heard About Me
+08. Diplo & Damian Lazarus - Don't Be Afraid (feat. Jungle)
+09. Ella Isaacson & Gallant - Expectations (R3HAB Remix)
+10. Felix Cartal - The Life (feat. Fjord)
+11. Hogland & Charlie South - Holy
+12. Le P - Way Of Life ft. Desirée Dawson
+13. Louis The Child, A R I Z O N A - So What (ARTY Remix)
+14. LVNDSCAPE & Mathieu Koss - Say It A Little Louder
+15. Mathematics (Damaged Goods & Los Padres Remix)
+16. Melonia - Sweet Child O' Mine
+17. Mike Williams - AIR
+18. Sad in Scandinavia (BLOODLINE Remix)
+19. Tchami - Buenos Aires (Galantis x Bali Bandits Remix)
+20. Steve Aoki, GATTÜSO & Aukoustics Feat. MKLA - Losing My Religion
+21. Davai, Raylee - You Make Me Feel...
+22. Josh Charm & FERGO - U Got Me
+23. R.Braga &amp Galluxy - Nobody Else]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/1a/dd/c0/d22ec1430d928dca78abb1eacd.mp3" type="audio/mp3" length="46743840"/>
+			<guid isPermaLink="false">tsof-radio-017</guid>
+			<pubDate>Sat, 26 Jun 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[  ON-AIR! This week's TSOF: Radio has world premieres and brand new music By In Your Wake, NEEDTOBREATHE, Armin van Buuren, R3HAB, Dimitri Vegas & Like Mike, Mathematics and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #16</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
