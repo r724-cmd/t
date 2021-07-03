@@ -29,6 +29,44 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #18</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Enrique Iglesias, Allen Watts, The Weeknd, French Braids, Julian Jordan, Marshmello and many more.
+
+Tracklist:
+
+1. The Space Of Future - Intro
+2. Enrique Iglesias - ME PASE ft. Farruko
+3. Allen Watts - Cyclone (Extended Mix)
+4. Doja Cat, The Weeknd - You Right
+5. French Braids feat. Tailor - Breathe In (Sammy Porter Remix)
+6. Vexento - Lotus
+7. Julian Jordan - Drop The Top (Extended Mix)
+8. Marshmello x Nitti Gritti - Bad Bitches (Feat. Megan Thee Stallion)
+9. Sigala, Rita Ora - You for Me
+10. Jonas Blue - Hear Me Say (KREAM Remix)
+11. ILLENIUM, Matt Maeson - Heavenly Side
+12. Regard, Troye Sivan, KC Lights, Tate McRae - You (KC Lights Remix)
+13. Don Diablo, Ty Dolla $ign - Too Much To Ask (VIP Mix)
+14. SURA - Wake Up (R3HAB Remix)
+15. Mesto & Dastic - Don't Wait (feat. Claudy)
+16. Nayxo - Ignite [RAX Label]
+17. Sam Feldt, Sam Fischer - Pick Me Up (VAVO Remix)
+18. French Braids feat. Tailor - Breathe In (Sammy Porter Remix)
+19. Syn Cole - Drive
+20. David Guetta x MistaJam x John Newman - If You Really Love Me (How Will I Know)]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/85/93/a9/e4307545b58ed92540a2699ca1.mp3" type="audio/mp3" length="45024523"/>
+			<guid isPermaLink="false">tsof-radio-018</guid>
+			<pubDate>Sat, 03 Jul 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Enrique Iglesias, Allen Watts, The Weeknd, French Braids, Julian Jordan, Marshmello and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #17</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
