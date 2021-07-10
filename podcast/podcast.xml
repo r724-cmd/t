@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 03 Jul 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 03 Jul 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 10 Jul 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 10 Jul 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,7 +29,44 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #19</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Nhat Bya, Lucas & Steve, ARTY, Youngr, Gryffin, Matisse & Sadko and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Nhat Bya - Sky Blue [RAX Label]
+03. Lucas & Steve - Get Together
+04. ARTY - Fight For (Extended Mix)
+05. Youngr - Superman (Stadiumx Remix)
+06. Gryffin - Best Is Yet To Come (Max Styler Remix) ft. Kyle Reynolds
+07. Marshmello x DJ Sliink - Back It Up
+08. TheFatRat & RIELL - Hiding In The Blue
+09. R3HAB x Luis Fonsi x Sean Paul - Pues (All That MTRS Remix)
+10. Zara Larsson - I Need Love ft. Trevor Daniel
+11. Afrojack & David Guetta - Hero (Nicky Romero Remix)
+12. Bebe Rexha - Die For A Man feat. Lil Uzi Vert (Galantis Remix)
+13. Calvin Harris - By Your Side (Oliver Heldens Remix) [feat. Tom Grennan]
+14. Matisse & Sadko, Alex Aris - Dawn
+15. Cannons, Tiësto - Fire for You (Tiësto Remix)
+16. Maroon 5 - Remedy ft. Stevie Nicks
+17. The Kid LAROI, Justin Bieber - Stay
+18. Thomas Gold - Someone Better
+19. W&W x Martin Jensen ft. Linnea Schössow - Greece 2021
+20. Swedish House Mafia ft. John Martin - Dont You Worry Child Radio Edit
+21. Matt Nash - Now Or Never]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/5f/7a/b7/8563fb4524b7fdf440759dd6cd.mp3" type="audio/mp3" length="45575941"/>
+			<guid isPermaLink="false">tsof-radio-019</guid>
+			<pubDate>Sat, 10 Jul 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Nhat Bya, Lucas & Steve, ARTY, Youngr, Gryffin, Matisse & Sadko and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #18</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
