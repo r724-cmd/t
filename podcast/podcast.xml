@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 10 Jul 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 10 Jul 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 17 Jul 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 17 Jul 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,6 +29,45 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #20</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Y.V.E. 48, Ava Max, Jay Hardway, DubVision, ILLENIUM, TheFatRat and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Y.V.E. 48 - Days Go By
+03. Ava Max - EveryTime I Cry (R3HAB Remix)
+04. Armin van Buuren & DubVision feat. YOU - I Should Be Loving You
+05. Jay Hardway - Like No Other (feat. Jaimes)
+06. TheFatRat - Arcadia
+07. ILLENIUM and Tori Kelly- Blame Myself
+08. KAAZE - FADE
+09. KSHMR - Ready To Love
+10. Tungevaag & Raaban - All For Love (Luca Schreiner Remix)
+11. Bastille - Give Me The Future
+12. NUZB - Hot Sauce
+13. Kungs - Never Going Home (Lost Frequencies Remix)
+14. Third ≡ Party - Take Me Away
+15. JLV - Never Coming Down
+16. OVERSTREET - All Nighter (Dark Heart Remix)
+17. ARTY feat. Cimo Fränkel - Daydreams (Sultan + Shepard Echoes Of Life Remix)
+18. Morgan Page & Mark Sixma - Our Song
+19. Alexander Popov & LTN ft. Kyler England - Yet To Come (Maratone Remix)
+20. Kryzonium & Detrobass - This is Hell [RAX Label]
+]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/5f/7a/b7/8563fb4524b7fdf440759dd6cd.mp3" type="audio/mp3" length="45575941"/>
+			<guid isPermaLink="false">tsof-radio-020</guid>
+			<pubDate>Sat, 17 Jul 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Y.V.E. 48, Ava Max, Jay Hardway, DubVision, ILLENIUM, TheFatRat and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #19</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
