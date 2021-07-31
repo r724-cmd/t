@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 24 Jul 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 24 Jul 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 31 Jul 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 31 Jul 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,7 +29,42 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #22</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Sam Feldt, PUBLIC, Hallman, Holy Mattress Money, Bassjackers, Brando and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. PUBLIC - Honey In The Summer (COASTR Remix)
+03. Hallman - Get It Right Now
+04. Holy Mattress Money, Henao - Crash into You
+05. Bassjackers - Motivation
+06. King Arthur - Hear You Calling
+07. Brando - Don't Call Me (Galantis Remix)
+08. James Carter - Something About You (feat. BCS)
+09. Le Youth, Adam Rom - Obvious
+10. Nora Van Elken  - Smile (feat. NEVRMIND)
+11. Jealous Friend, Bastien - Wanna Say Hi (feat. Bastien)
+12. Ashmusik - Time For Coffee [06:30 am/RAX Label]
+13. I Am Neil - The Forest [RAX Copyright Free Music]
+14. Tape Machines, Astyn Turr - Liability
+15. Dan Talevski - Touch The Sky
+16. John De Sohn - Dance Forever
+17. Young Bombs - Don't Let Them (Flyboy Remix)
+18. RHODES & YouNotUs & Deepend - Smile
+19. Sam Feldt - The Riddle (feat. Lateshift)]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/40/bc/ee/ab1e584f848c87f30e28216f9b.mp3" type="audio/mp3" length="46204101"/>
+			<guid isPermaLink="false">tsof-radio-022</guid>
+			<pubDate>Sat, 31 Jul 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Sam Feldt, PUBLIC, Hallman, Holy Mattress Money, Bassjackers, Brando and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #21</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
