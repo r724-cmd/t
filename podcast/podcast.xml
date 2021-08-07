@@ -29,6 +29,47 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		
+		
+		<item>
+			<title>The Space Of Future: Radio #23</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By ARTY, Syn Cole, Lost Frequencies, Matisse & Sadko, DubVision, David Guetta and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Travis Murray - Crave feat. Sydney Beau
+03. Ken Loi - Hurricanes (ft. Ollie Sloan)
+04. Crankdat,KC - What It Feels Like
+05. Acid Tymekk - Masurian
+06. David Guetta, MistaJam, John Newman - If You Really Love Me [Future Rave Remix]
+07. DubVision - I Don't Wanna Know
+08. Matisse & Sadko feat. Alex Aris - Heal Me (Lørean Remix)
+09. Zack Martino feat. Lenii - Crave U
+10. Tobias Bergson - Love Forever
+11. Wahlstedt,Mason Flint - In My Arms
+12. I See Colors,Evan Olmos - I See Colors
+13. Klaas – When We Were Still Young
+14. ARTY - One Night Away (Arno Cost & Norman Doray Remix)
+15. INViDA & Robbie Rosen - 10,000 Feet
+16. Syn Cole - Wicked (feat. Jojee)
+17. Lost Frequencies ft Calum Scott - Where Are You Now
+18. EL3CTRXX feat. Roxanne Emery - Technicolor
+19. MOTi & JETFIRE - Beautiful (ft. Lovespeake)
+20. Kaz Benson - All I Know
+21. Paige & Colton Avery - Always On Your Mind]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/25/fa/19/e72bf74b638d184aaeadf906f0.mp3" type="audio/mp3" length="46101966"/>
+			<guid isPermaLink="false">tsof-radio-023</guid>
+			<pubDate>Sat, 07 Aug 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By ARTY, Syn Cole, Lost Frequencies, Matisse & Sadko, DubVision, David Guetta and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #22</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
