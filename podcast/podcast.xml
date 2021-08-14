@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 31 Jul 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 31 Jul 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 14 Aug 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 14 Aug 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -31,7 +31,45 @@
 		
 		
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #24</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By RetroVision, Youngr, Ryan Coss, Matisse & Sadko, Armin van Buuren, TheFatRat and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Ryan Coss & Dalic - Dream
+03. RetroVision x Guy Arthur - Don't Give Up
+04. CAMARDA & Whispers - Talkin’ About
+05. David Solomon - Learn To Love Me feat. Ryan Tedder
+06. Youngr - Hotter Than Hawaii
+07. Lucas Estrada, NEIMY - Ocean Quiet
+08. Janee & Faith - Mistakes
+09. NUZB - Distracted
+10. Marcus Santoro ft. Diana Miro - Oblivion
+11. Midsplit, Blem - Good Dream (Ft. A-SHO)
+12. Matisse & Sadko feat. Alex Aris - Heal Me (Lørean Remix)
+13. Midnight Kids - Out of Time feat. Yueku
+14. Armin van Buuren & AVIRA - Sirius
+15. Syn Cole - Wicked (feat. Jojee)
+16. Amero - Your Eyes
+17. Steve Void - Cola
+18. Win and Woo feat. Kyan Palmer - Sleepwalking
+19. TheFatRat & Cecilia Gault - Violet Sky
+20. Whales & Misdom - Poisons
+21. FAKE ID - Eternity
+22. In Your Wake - Right On Top]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/7d/e8/16/8de9074b989099838d8b9fb844.mp3" type="audio/mp3" length="55718430"/>
+			<guid isPermaLink="false">tsof-radio-024</guid>
+			<pubDate>Sat, 14 Aug 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By RetroVision, Youngr, Ryan Coss, Matisse & Sadko, Armin van Buuren, TheFatRat and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #23</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
