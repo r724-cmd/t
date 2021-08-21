@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 14 Aug 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 14 Aug 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 21 Aug 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 21 Aug 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -30,7 +30,42 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #25</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By David Guetta, Armin van Buuren, Terry Da Libra, James Arthur, Adam Pearce, R3HAB and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. David Guetta feat. Sia - Titanium (MORTEN Future Rave Remix)
+03. Nicky Romero - Back To You
+04. Terry Da Libra - Reminiscent
+05. Aspyer - Symphony
+06. Armin van Buuren & DubVision feat. YOU - I Should Be Loving You
+07. Toxic Hearts - Forever Is Never Enough (Remix)
+08. James Arthur - September (Billen Ted Remix)
+09. Adam Pearce & Kalide - Ruin My Life (feat. Bianca)
+10. dvine - Moments of Bliss
+11. PRLS - Closer
+12. MADSUN - Discovery
+13. Jake Wolfe & Kbubs - Missing You ft. Alisa
+14. Lonely in the Rain - On The Way (feat. Lisa)
+15. Cloudsparty & Musicbyarwy - Out Of My Mind
+16. Jac & Harri - How We Roll
+17. Steve Void - Cola
+18. Shy Baboon & Maejor - All We Got
+19. R3HAB & Sigala & JP Cooper - Runaway]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/d7/a2/75/749d374248861ea3181322807a.mp3" type="audio/mp3" length="56671598"/>
+			<guid isPermaLink="false">tsof-radio-025</guid>
+			<pubDate>Sat, 21 Aug 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By David Guetta, Armin van Buuren, Terry Da Libra, James Arthur, Adam Pearce, R3HAB and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #24</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
