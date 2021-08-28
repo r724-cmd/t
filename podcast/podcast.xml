@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 21 Aug 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 21 Aug 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 28 Aug 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 28 Aug 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -30,6 +30,40 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #26</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Nicky Romero, Armin van Buuren, Aspyer, Duvall, Don Diablo, Don Diablo and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Monocule, Sarah De Warren, Nicky Romero - Awakening
+03. Aspyer feat. Matluck - Somebody To Hold
+04. Hardwell - Apollo ft. Amba Shepherd (SICK INDIVIDUALS Remix)
+05. Duvall, bshp - Every Song (AVIAN GRAYS Remix)
+06. LNY TNZ - So Easy (VIP Mix)
+07. Don Diablo, AR/CO - Hot Air Balloon
+08. AMIIGO - U Were There (ft. OMZ)
+09. TheFatRat - Fire [Chapter 8]
+10. Armin van Buuren & Timmy Trumpet - Anita
+11. Vicetone & Willim - Wish You Were Here ft. Wink XY
+12. Dastic - Perfect Lullaby
+13. KARRA - Underwater
+14. Blackcode & Snaypor ft. Charlie Miller - Not Enough
+15. Ashley Wallbridge feat. Evan Henzi - Still Alive
+16. Schillist, Silque, DINHO TERRES - I'm A Mess]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/bf/0d/f4/d86a384262a3973d6fee44c11e.mp3" type="audio/mp3" length="55841151"/>
+			<guid isPermaLink="false">tsof-radio-026</guid>
+			<pubDate>Sat, 21 Aug 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Nicky Romero, Armin van Buuren, Aspyer, Duvall, Don Diablo, Don Diablo and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #25</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
