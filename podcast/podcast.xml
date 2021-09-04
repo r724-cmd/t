@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 28 Aug 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 28 Aug 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 04 Sep 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 04 Sep 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -30,7 +30,42 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #27</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Almero, Seth Hills, Andrew Rayel, MR.BLACK, Mike Perry, In Your Wake and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Almero - Midnight Love
+03. Sons Of Maria - Anywhere
+04. Zonderling, Don Diablo - No Good
+05. BLK RSE - Hummingbird (KAAZE Mix)
+06. Vice feat. Gary Pine & Shayon THEHITMAN - Find A Way (Kayliox Remix)
+07. Julian Jordan - Never Tired Of You
+08. Seth Hills - Whisper
+09. Andrew Rayel pres. AETHER - Ascendit ad Paradisum
+10. Mo Falk - Mammut
+11. REMZEE - Ironic
+12. MR.BLACK - Baby Im Ready (feat. AJ)
+13. Sumix - Indecisive
+14. Mark Sixma & Jordan Shaw - Somebody Else Instead
+15. Armin van Buuren, Aly & Fila feat. Kazi Jay - For All Time
+16. Mike Perry ft. Isak Danielson - Save me now
+17. Jana Music - Moon Light [RAX Label]
+18. In Your Wake - Deep End [RAX Label]
+19. Tobu - La Belle]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/3c/53/e7/7f67bc4254bdf2c07481a555a7.mp3" type="audio/mp3" length="56876991"/>
+			<guid isPermaLink="false">tsof-radio-027</guid>
+			<pubDate>Sat, 04 Sep 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Almero, Seth Hills, Andrew Rayel, MR.BLACK, Mike Perry, In Your Wake and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #26</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
