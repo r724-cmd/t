@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 08 Sep 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 08 Sep 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 08 Sep 2021 16:04:58 +0000</pubDate>
+		<lastBuildDate>Sat, 08 Sep 2021 16:04:58 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -58,7 +58,7 @@ Tracklist:
 			<author>TSOF: Radio</author>
 			<enclosure url="https://s3.castbox.fm/c4/4e/0e/8b9cfe42c5b6bd22cb5c42efcd.mp3" type="audio/mp3" length="77435727"/>
 			<guid isPermaLink="false">tsof-radio-028</guid>
-			<pubDate>Sat, 08 Sep 2021 03:42:20 +0000</pubDate>
+			<pubDate>Sat, 08 Sep 2021 16:04:58 +0000</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
 			<itunes:summary><![CDATA[ Happy Birthday Avicii]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
