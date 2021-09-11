@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Wed, 08 Sep 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Wed, 08 Sep 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 11 Sep 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 11 Sep 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -31,6 +31,44 @@
 		
 		
 		
+		<item>
+			<title>The Space Of Future: Radio #29</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Justin Mylo, W&W, Don Diablo, Syn Cole, Jared Minnix, Kensei and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Justin Mylo - Pillow Fighting
+03. Nicky Romero, W&W - We're Still Young
+04. Don Diablo,Freak Fantasique - Stay Awake
+05. Syn Cole - Drift
+06. Whoshafee - Somedays I Know
+07. LIONE - Glimmer (William Black Remix)
+08. Jeffrey Sutorius, 22Bullets feat. Wilder - So Much More
+09. Kiso & Vanillaz - Gold (ft. Malcolm Anthony)
+10. Bassjackers, PleasrDAO, Ralph van Hilst, Marlon Flohr, Renze Michels - In Doge We Trust
+11. Lulleaux - Break Loose ft. NEIMY
+12. RITUAL, Emily Warren - Using (Syn Cole Remix)
+13. TheFatRat,Anjulie - Let Love Win
+14. Jared Minnix - Hydroplane (With Løve Remix)
+15. Quintino - Coming Home
+16. Awakend, Nytrix - Message From The Stars
+17. Maisie Peters feat. JP Saxe - Maybe Don't (MOTi Remix)
+18. Armin van Buuren, Davina Michelle - Hold On
+19. Hogland - Telling Me Yes
+20. Kensei - Horizon
+21. WildVibes,Martin Miller,Loé - Believe]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/89/19/a4/4455084ef3a74a988d7998fc43.mp3" type="audio/mp3" length="72008343"/>
+			<guid isPermaLink="false">tsof-radio-029</guid>
+			<pubDate>Sat, 11 Sep 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Justin Mylo, W&W, Don Diablo, Syn Cole, Jared Minnix, Kensei and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #28 [Happy Birthday Avicii]</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
