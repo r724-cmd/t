@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 18 Sep 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 18 Sep 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 25 Sep 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 25 Sep 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -30,6 +30,45 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #31</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Don Diablo, Don Diablo, Alok, Gryffin, Alan Walker, Green Tree and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Don Diablo - Beautiful Feeling
+03. Green Tree - Reveal It
+04. Phael & the Heat - Feelings
+05. Alan Walker, K-391, Boy in Space - Paradise
+06. Slushii - All I Need
+07. Gryffin - New Blood (Myon Summer Of Love Mix) (ft. Boy Matthews)
+08. Timmy Trumpet - Cardio
+09. ARTY - Brighter Side
+10. Jeffrey Sutorius & 22Bullets - So Much More (feat. Wilder)
+11. Trivecta - Ghost in the Machine
+12. I Got A Feeling (James Hype Remix)
+13. Marc Brothers, Ez Quew – No More Tears
+14. Galantis, David Guetta, Little Mix - Heartbreak Anthem
+15. Alok, ALOTT, Apophis - Alone
+16. Jonas Aden - Late At Night
+17. Wave Wave - Coming Down (feat. Marigo Bay)
+18. Dermot Kennedy - Better Days (Galantis Remix)
+19. Shavi - Moments (feat. Sumix)
+20. ARIZONA - Electric Touch (Midnight Kids Remix)
+21. Daxsti - Engine [RAX Label]]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/7a/dd/7b/d7c8c84ea4bca9d8fa13578bab.mp3" type="audio/mp3" length="72008343"/>
+			<guid isPermaLink="false">tsof-radio-031</guid>
+			<pubDate>Sat, 25 Sep 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Don Diablo, Don Diablo, Alok, Gryffin, Alan Walker, Green Tree and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #30</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
