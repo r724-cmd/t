@@ -30,7 +30,43 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #32</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Dr Phunk, Asonn, Farruko, Tobu, Afrojack, FAKE ID and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Dr Phunk - Sign Or Warning
+03. Asonn - Wild Ones ft. STRNGRS
+04. Tobu - Lost
+05. Marc Benjamin, Timmo Hendriks, VY•DA - Hold Me Down ft. Alessia Labate
+06. Farruko, David Guetta - Pepas (David Guetta Remix)
+07. Afrojack, Lucas & Steve, Dubvision - Anywhere With You
+08. ARTY - Live For
+09. KVSH - Bugs feat. Exotique
+10. Nicky Romero & David Guetta - Ring The Alarm (Stadiumx Remix)
+11. Ellexima - Money
+12. SK8 - Girl Next Door (feat. Wiz Khalifa, DVBBS)
+13. KPLR - Lost On You
+14. Alesso, Marshmello - Chasing Stars (feat. James Bay) [VIP MIX]
+15. Diplo, Paul Woolford - Promises (ft. Kareen Lomax)
+16. French 79 - Diamond Veins (VER:WEST, Tiësto Remix)
+17. Liam Payne - Sunshine (From the Motion Picture “Ron’s Gone Wrong” Billen Ted Remix)
+18. Tim van Werd - Icarus
+19. FAKE ID - Last Summer
+20. Spada - Waiting (feat. Chiara Galiazzo)]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/95/15/f5/79f2f74c5ea64542ccbec4a9c0.mp3" type="audio/mp3" length="72008343"/>
+			<guid isPermaLink="false">tsof-radio-032</guid>
+			<pubDate>Sat, 02 Oct 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Dr Phunk, Asonn, Farruko, Tobu, Afrojack, FAKE ID and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #31</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
