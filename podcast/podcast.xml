@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 02 Oct 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 02 Oct 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 09 Oct 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 09 Oct 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,7 +29,44 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #33</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By SLANDER, Jeffrey Sutoriusn, KAAZE, KSHMR, RetroVision, Martin Garrix, Julian Jordan and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. SLANDER - Love Is Gone feat. Dylan Matthew (Armin van Buuren Remix)
+03. Jeffrey Sutorius, Timmo Hendriks - The Afterlife ft. LUX
+04. KAAZE & MILLENNIAL - Erase You
+05. Orjan Nilsen, Fingerling - 1 Like You
+06. Siine - Hard Way to Better (STRLGHT Remix)
+07. KSHMR - Over You (Feat. Lovespeake)
+08. RetroVision - In The Place
+09. Toby Romeo, Felix Jaehn, FAULHABER - Where The Lights Are Low (Mike Williams Remix)
+10. Skytech, Bassjackers - All My Love
+11. TMW - All of My Love (Riggi & Piros Remix)
+12. Martin Garrix, Julian Jordan & Tinie Tempah - Diamonds
+13. Josh Charm - Let You Go
+14. King Topher - Praise You (feat. Michael Maeco) [King Topher & MADDOW Remix]
+15. Hook N Sling, Galantis, Karen Harding - The Best - (Toby Romeo Remix)
+16. KPLR - Lost On You
+17. Elderbrook - Back To My Bed [Sam Feldt Remix]
+18. 3LAU, CXLOE - Worst Case
+19. gardenstate - Alma (Extended Mix)
+20. Jason Derulo - Acapulco (Michael Calfan Remix)
+21. Shaun Jacobs, Young Bombs - Say You Will Remember Me (Remix)]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/b4/9a/d4/686d404cd7a4e0382bf1f89595.mp3" type="audio/mp3" length="72008343"/>
+			<guid isPermaLink="false">tsof-radio-033</guid>
+			<pubDate>Sat, 09 Oct 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By SLANDER, Jeffrey Sutoriusn, KAAZE, KSHMR, RetroVision, Martin Garrix, Julian Jordan and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #32</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
