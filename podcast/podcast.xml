@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 09 Oct 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 09 Oct 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 16 Oct 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 16 Oct 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,6 +29,46 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #34</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By ILLENIUM, Syn Cole, AREA21, Nicky Romero, Orjan Nilsen, Alok, Mike Williams and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Orjan Nilsen, Fingerling - 1 Like You
+03. Nicky Romero - Love Me Better
+04. ILLENIUM - Wouldn't Change a Thing (feat. Thirty Seconds to Mars)
+05. AREA21 - Own The Night
+06. Ali Gatie, Marshmello, Ty Dolla $ign - Do You Believe
+07. Ed Sheeran - Shivers (Alok Remix)
+08. Mike Williams - Harmony (feat. Xillions)
+09. John De Sohn - Looking Up
+10. GAMPER & DADONI - Rule the World (feat. ILIRA)
+11. Kygo - Undeniable ft. X Ambassadors
+12. Tiësto, Lucas & Steve - Oohla Oohla
+13. Syn Cole, Willim, Katy Tiz - Sorry I Ain't Sorry
+14. R3HAB, Jonas Blue - Sad Boy (feat. Ava Max, Kylie Cantrall) (Cat Dealers Remix)
+15. Returning To You (feat. Alison May)
+16. Don Diablo - Cheque
+17. Courier - San Francisco (Alex Schulz Remix)
+18. Deep Chills, Jordan Jay - Bandaid
+19. Joel Corry, RAYE, David Guetta - BED
+20. Sam Feldt - Call On Me (feat. Georgia Ku)
+21. Kbubs, Jake Neumar - Top Of New York
+21. LYOD, The Bayton Fields - Do It For Love]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/55/e7/b7/3fcbd54cd09a26a8a507ea3d46.mp3" type="audio/mp3" length="73299063"/>
+			<guid isPermaLink="false">tsof-radio-034</guid>
+			<pubDate>Sat, 16 Oct 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By ILLENIUM, Syn Cole, AREA21, Nicky Romero, Orjan Nilsen, Alok, Mike Williams and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #33</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
