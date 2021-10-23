@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 16 Oct 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 16 Oct 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 23 Oct 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 23 Oct 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,7 +29,45 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #35</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Justin Mylo, Vini Vici, Bryce Fox, VARGENTA, ILLENIUM, Aspyer, R3HAB and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Justin Mylo - Do I Know Myself
+03. Kevin Lake - Riverside Tydem Remix
+04. Armin van Buuren, Vini Vici - Yama (feat. Tribal Dance & Natalie Wamba)
+05. Bryce Fox - Burn Fast (TELYKast Remix)
+06. VARGENTA, Arild Aas - Way That You Do
+07. ILLENIUM, BANNERS - Hurts Like This
+08. Aspyer, Matluck - Somebody To Hold (MorganJ Remix)
+09. R3HAB, Sigala, JP Cooper - Runaway (Weird Genius Remix)
+10. Calvin Harris - By Your Side (SIDEPIECE Remix) ft. Tom Grennan
+11. Bazzi vs., SWACQ - Paradise (Bazzi vs. SWACQ Remix)
+12. Julian Calor - Silence (feat. Trove)
+13. Hugo Doche - Waiting For
+14. Imagine Dragons, TELYKast - Demons (TELYKast Remix)
+15. Young Bombs, JORDY - Summer in Brooklyn (Kbubs Remix)
+16. LiQWYD - Feel It
+17. Wholm, Cageman, Michael Shynes - Born Again
+18. ArtLec - We'll Stay Together
+19. Chico Rose, SLVR - My Sound (Afrojack Edit)
+20. Niiko, SWAE - Friends
+21. DayFox - Glory Morning
+22. Brother Leo,KVR - Barcelona (Kvr Remix)]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/96/9d/08/9eb1ac479f85c67dfeee11bb4a.mp3" type="audio/mp3" length="72008343"/>
+			<guid isPermaLink="false">tsof-radio-035</guid>
+			<pubDate>Sat, 23 Oct 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Justin Mylo, Vini Vici, Bryce Fox, VARGENTA, ILLENIUM, Aspyer, R3HAB and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #34</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
