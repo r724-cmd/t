@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 23 Oct 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 23 Oct 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 30 Oct 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 30 Oct 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,6 +29,45 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #36</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By KAAZE, Dimitri Vangelis & Wyman, Afrojack, Florian Picasso, Siine, ARTY, Nicky Romero and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. KAAZE - All On Me
+03. Matisse & Sadko, Aspyer - Don't Tell Me (feat. Matluck)
+04. ILLENIUM, Jon Bellion - Good Things Fall Apart (Tiësto's Big Room Remix)
+05. LOOPERS - Everything Goes Black
+06. Lotus, Montis - Giants (feat. Iselin Solheim)
+07. Dimitri Vangelis & Wyman, Mike Perry - Coming Home
+08. Martin Garrix - High On Life (feat. Bonn)
+09. Afrojack, Black V Neck - To The Floor
+10. Matisse & Sadko, Mougleta - Relight My Love
+11. Florian Picasso, GRX - Far Away
+12. Axwell Λ Ingrosso - Dreamer (Matisse & Sadko Remix)
+13. Siine - New Crave
+14. Nicky Romero - Acid Is My DNA
+15. Greg Dela x Donkong - Dreams
+16. Jubël ft NEIMY – Dancing In The Moonlight (Tiësto Remix)
+17. Vicetone - Nevada (ft. Cozi Zuehlsdorff)
+18. Vicetone - No Rest
+19. B-Case & Robin Schulz - Can't Buy Love (feat. Baby E)
+20. ARTY feat. Griff Clawson - Those Eyes
+21. DayFox - Escape]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/e2/77/d4/4f11924a1695e2e4c07094c194.mp3" type="audio/mp3" length="72008343"/>
+			<guid isPermaLink="false">tsof-radio-036</guid>
+			<pubDate>Sat, 30 Oct 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By KAAZE, Dimitri Vangelis & Wyman, Afrojack, Florian Picasso, Siine, ARTY, Nicky Romero and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #35</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
