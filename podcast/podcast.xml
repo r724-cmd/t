@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 30 Oct 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 30 Oct 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 06 Nov 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 06 Nov 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -34,7 +34,7 @@
 		<item>
 			<title>The Space Of Future: Radio #37</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
-			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By KAAZE, Dimitri Vangelis & Wyman, Afrojack, Florian Picasso, Siine, ARTY, Nicky Romero and many more.
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Jim Yosef, Tobu, Don Diablo, Tiësto, Calum Scott, Seth Hills, RudeLies and many more.
 
 Tracklist:
 
@@ -65,7 +65,7 @@ Tracklist:
 			<guid isPermaLink="false">tsof-radio-037</guid>
 			<pubDate>Sat, 06 Nov 2021 03:42:20 +0000</pubDate>
 			<itunes:author>TSOF: Radio</itunes:author>
-			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By KAAZE, Dimitri Vangelis & Wyman, Afrojack, Florian Picasso, Siine, ARTY, Nicky Romero and many more.]]></itunes:summary>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Jim Yosef, Tobu, Don Diablo, Tiësto, Calum Scott, Seth Hills, RudeLies and many more.]]></itunes:summary>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>01:00:00</itunes:duration>
 			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
