@@ -30,6 +30,46 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #37</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By KAAZE, Dimitri Vangelis & Wyman, Afrojack, Florian Picasso, Siine, ARTY, Nicky Romero and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Jim Yosef & Shiah Maisel - Best of Me
+03. Tobu - Vibin' (Everyday)
+04. Don Diablo - Get Out Get Hurt (ft. Gabrielle Aplin0
+05. Axel Johansson - One
+06. Tiësto, Ava Max - The Motto
+07. Alok, Bruno Martini - Hear Me Now (feat. Zeeba)
+08. Calum Scott - Rise (Sam Feldt Remix)
+09. Andrew Rayel, Takis, Zagata - Closer
+10. Deniz Koyu, Raiden - Am I
+11. Seth Hills, CMC$ - Nicotine (feat. Alessia Labate)
+12. Diviners - Falling (feat. Harley Bird)
+13. Martin Garrix - Drown feat. Clinton Kane (Nicky Romero Remix)
+14. HAYES, Lovespeake - Wasting Love
+15. DubVision - No More
+16. Mike Perry - ONE LIFE
+17. Quintino - Make Believe
+18. Timmy Trumpet, Cascada - Never Let Me Go
+19. Zonderling - Zonder
+20. RudeLies - Dreaming
+21. WHIPPED CREAM, Jimorrow - Light of Mine
+22. DEAF KEV - Invincible]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/5c/56/79/777b0147168bd889fee08f06a7.mp3" type="audio/mp3" length="72008343"/>
+			<guid isPermaLink="false">tsof-radio-037</guid>
+			<pubDate>Sat, 06 Nov 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By KAAZE, Dimitri Vangelis & Wyman, Afrojack, Florian Picasso, Siine, ARTY, Nicky Romero and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #36</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
