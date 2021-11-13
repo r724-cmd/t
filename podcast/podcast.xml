@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 06 Nov 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 06 Nov 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 13 Nov 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 13 Nov 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -30,7 +30,44 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #38</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Sick Individuals,  K-391, Gryffin, Syn Cole, Ashworth, AREA21, Triple M and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Sick Individuals -Bring It Home
+03. K-391, LINKO - Go Home (Feat. Mentum) 
+04. Gryffin - New Blood ft. Boy Matthews (Riot Ten Remix)
+05. Jack Back, Fancy Inc, Roland Clark - Alive
+06. Enzo Ingrosso - Born With It (feat. Sam Martin)
+07. Ashworth - The Same
+08. Syn Cole - Melodia
+09. Triple M, Samlight & Stage Republic - Fields Of Gold
+10. James Arthur - September (MENTIS Remix)
+11. Kryder, Nino Lucarelli – Stay With Me
+12. Stadiumx, Maone & Lukas Max - Piece Of My Mind
+13. AREA 21 - 21
+14. Carda, Keeks - Need You Now
+15. ItaloBrothers - Down For The Ride
+16. John Dahlbäck - Pyramid (Nicky Romero Remix)
+17. Martin Jensen - Faith
+18. Project 46, Linney - Remember You
+19. INNA - Up
+20. Alan Walker, Winona Oak - World We Used To Know
+21. Jason Ross - Elements (Dimibo Remix)]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/cd/c5/93/46d20f4c81a562020f915443a5.mp3" type="audio/mp3" length="57606738"/>
+			<guid isPermaLink="false">tsof-radio-038</guid>
+			<pubDate>Sat, 13 Nov 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Sick Individuals,  K-391, Gryffin, Syn Cole, Ashworth, AREA21, Triple M and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #37</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
