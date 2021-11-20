@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 13 Nov 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 13 Nov 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 20 Nov 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 20 Nov 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -30,6 +30,45 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #39</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Adrian van Sin, KSHMR, Tritonal, Dr Phunk, Aspyer, Alok, Five Hours and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Adrian van Sin - Bounce
+03. KSHMR, Tungevaag - Close Your Eyes
+04. Don Diablo, Camp Kubrick - Whatchu Do
+05. Dr Phunk - Danger Machine (feat. Maikki)
+06. Gryffin - Best Is Yet To Come (with Kyle Reynolds)
+07. Tritonal, EMME - Out Of The Dark (Fatum Remix)
+08. Five Hours, Clarity, Outside (Remix Rewind)
+09. Vinil, Sterkøl - Big Me Up
+10. Robbie Mendez - Out Of My Head
+11. Aspyer - Our Time
+12. Miles Away, VENIICE - Don't Say That (feat. Olaf Blackwood)
+13. Monocule - You Don't Know
+14. Hr. Troels, Warren Attwell - Young Like This
+15. Daxten, Wai - Fall into Place (feat. Andrew Shubin)
+16. Alon - This Time (ft. Desiree Dawson)
+17. Alok, John Legend, Dubdogz - In My Mind (Dubdogz Remix)
+18. El Mukuka - Do It Again (feat. Youngr)
+19. waybackwhen  -  When You Were Young
+20. Leor, Brooke Taylor - Ruined Me
+21. In Your Wake - M.O.F.O.]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/dc/ab/f3/ad41db4a24ab8a0d8f886f5706.mp3" type="audio/mp3" length="72008343"/>
+			<guid isPermaLink="false">tsof-radio-039</guid>
+			<pubDate>Sat, 20 Nov 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Adrian van Sin, KSHMR, Tritonal, Dr Phunk, Aspyer, Alok, Five Hours and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #38</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
