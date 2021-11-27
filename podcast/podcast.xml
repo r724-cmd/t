@@ -30,7 +30,44 @@
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #40</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Backstreet Boy, Coldplay, Quintino, Dastic, Marphenome, Paul Woolford, Alan Walker and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Backstreet Boy - I Want It That Way (Remix)
+03. REBOOST - Motivation (Feed My Appetite)
+04. Coldplay, BTS - My Universe (David Guetta Remix)
+05. Quintino - Vivid
+06. Dastic, Jaimes - Could Be There
+07. Paul Woolford, Kareen Lomax - Promises (Diplo Remix)
+08. FÄIS, Chasner - Make Me Do (Chasner Remix)
+09. Closed Doors - Take It Off
+10. Sarah Reeves - Not My Style (R3HAB Remix)
+11. Alan Walker, Benjamin Ingrosso - Man On The Moon
+12. FRND - Erase (ARTY Remix)
+13. Alex Kunnari, London Thor - Heart Will Follow
+14. Nicky Romero - Why Do I Call
+15. Lucas Estrada, Discrete, Chris Collins - Lucky Nights
+16. Mike Perry - Looking At U
+17. EddieLT,OMZ - Never Giving Up (Radio edit)
+18. Young Bombs - U Up (ft. Stondon Massey)
+19. Richie Krisak - Vegas (ft. Ivar Lisinski)
+20. Marphenome - Good Winds
+21. Sultan + Shepard - Assassin]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/bf/fe/e4/b4496440dcbacf003a6ed093f7.mp3" type="audio/mp3" length="72274263"/>
+			<guid isPermaLink="false">tsof-radio-040</guid>
+			<pubDate>Sat, 27 Nov 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Backstreet Boy, Coldplay, Quintino, Dastic, Marphenome, Paul Woolford, Alan Walker and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #39</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
