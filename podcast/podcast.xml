@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 27 Nov 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 27 Nov 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 04 Dec 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 04 Dec 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,7 +29,44 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #41</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Martin Garrix, Otto Knows, DJ Snake, OVERSTREET, FRND, The DeadZone, Avicii and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Martin Garrix - High On Life (Remix)
+03. Otto Knows - Million Voices
+04. Aspyer - Symphony
+05. DJ Snake - Run It (ft. Rick Ross & Rich Brian)
+06. Martin Garrix - We Are The People (feat. Bono & The Edge) [UEFA EURO 2020 Song]
+07. OVERSTREET, Dark Heart - All Nighter (Dark Heart Remix)
+08. Damon Sharpe, Josh Cumbee - Lost Years
+09. Nicky Romero, MARF - Okay (feat. Wulf)
+10. Nicky Romero - Back To You
+11. Mike Williams, Felix Jaehn - Without You (ft. Jordan Shaw)
+12. FRND - Erase (ARTY Remix)
+13. Martin Garrix, Dean Lewis - Used To Love
+14. Don Diablo, Ty Dolla $ign - Too Much To Ask
+15. Martin Garrix - Drown feat. Clinton Kane (Nicky Romero Remix)
+16. Alok, Bruno Martini - Hear Me Now (feat. Zeeba)
+17. Kygo - Love Me Now (ft. Zoe Wees)
+18. ILLENIUM - First Time (feat. Iann Dior) (Sam Feldt Remix)
+19. Matisse & Sadko, Aspyer - Don't Tell Me (feat. Matluck)
+20. Avicii - Waiting For Love (Addal Remix)
+21. The DeadZone - Madman [RAX Label]]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/38/90/ea/c9436443a0870501c7807a0a07.mp3" type="audio/mp3" length="72021783"/>
+			<guid isPermaLink="false">tsof-radio-041</guid>
+			<pubDate>Sat, 04 Dec 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Martin Garrix, Otto Knows, DJ Snake, OVERSTREET, FRND, The DeadZone, Avicii and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #40</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
