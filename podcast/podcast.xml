@@ -29,6 +29,43 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #42</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Matisse & Sadko, Slushii, Last Soldier, Elderbrook, Faithless, AVIAN GRAYS, Mark Knight and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Martin Garrix, Matisse & Sadko, John Martin - Won’t Let You Go
+03. Slushii - Turn It Up
+04. Last Soldier, Sion Rae - Skyline
+05. Danny Avila, Prophecy - Imperium
+06. Bleu Clair, Cheyenne Giles - Chemistry
+07. Wahlstedt - Say My Name
+08. Elderbrook - Inner Light (Barry Can't Swim Remix)
+09. Faithless, David Guetta - God Is A DJ
+10. SEATBELTS - Tank! (Steve Aoki Remix)
+11. Diplo, Sonny Fodera - Turn Back Time
+12. Antoine Delvig, WARO - You Make Me
+13. Exodus, Centric - Acid Rave
+14. Future Class - 303
+15. Chester Young, Kazden - Real Life
+16. Ralov - By Your Side
+17. AVIAN GRAYS, Ben Adams - Never Let You Go
+18. Zonderling - Breng
+19. Mark Knight, Mason - Givin' Up]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/82/29/71/d4f95747068864d28be6bdc36b.mp3" type="audio/mp3" length="72021783"/>
+			<guid isPermaLink="false">tsof-radio-042</guid>
+			<pubDate>Sat, 11 Dec 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Matisse & Sadko, Slushii, Last Soldier, Elderbrook, Faithless, AVIAN GRAYS, Mark Knight and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:00</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #41</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
