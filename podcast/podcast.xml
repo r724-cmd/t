@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 11 Dec 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 11 Dec 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 18 Dec 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 18 Dec 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -29,7 +29,41 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #43</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Julian Jordan, Malaa, YouNotUs, Danny Avila, Dyro, Zedd, Alok and many more.
+
+Tracklist:
+
+01. The Space Of Future - Intro
+02. Julian Jordan - Thunder
+03. DJ Snake & Malaa - Ring The Alarm (Kohmi Remix)
+04. YouNotUs, Nea - All My Life (YouNotUs Club Mix)
+05. Danny Avila - The Captain
+06. Josh Le Tissier, Heleen - Chasing Cars
+07. Pierce Fulton - Runaway
+08. AREA21 - 21
+09. Dyro - Around
+10. Cubicore, Oliver Moss - Keep On Trying (feat. July Mell)
+11. Afrojack, Lucas & Steve, DubVision - Anywhere With You
+12. VALORANT, Grabbitz - Die For You (Zedd Remix)
+13. Alok - Squid Game (Let's Play)
+14. Joel Corry - I Wish (feat. Mabel)
+15. Timmo Hendriks, Robbie Rosen - Ashes
+16. Monocule, LAMAS (BR) - Your Eyes
+17. Öwnboss, Hugo Doche - All I Want
+18. TripL, MN10 - Guest List]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/a2/c1/5b/f7b1c94930af5b33852ff1f09a.mp3" type="audio/mp3" length="72021783"/>
+			<guid isPermaLink="false">tsof-radio-043</guid>
+			<pubDate>Sat, 18 Dec 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By Matisse & Sadko, Slushii, Last Soldier, Elderbrook, Faithless, AVIAN GRAYS, Mark Knight and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #42</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
