@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 18 Dec 2021 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 18 Dec 2021 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 25 Dec 2021 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 25 Dec 2021 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -28,7 +28,41 @@
 		<itunes:subtitle><![CDATA[The Space Of Future: Radio]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
-		
+		<item>
+			<title>The Space Of Future: Radio #44</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's TSOF: Radio has world premieres and brand new music By DubVision, Alok, No Hero, Norni, Armin van Buuren, VINNE, Scott Rill and many more.</p>
+
+<p>Tracklist: -  <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. DubVision, Vigel, Nino Lucarelli - Rescue Me (Vigel Club Mix)</br>
+<br>03. No Hero - Like This</br>
+<br>04. Norni - Prince of Persia</br>
+<br>05. Armin van Buuren - Soundscape</br>
+<br>06. VINNE, SP3CTER - Back For You</br>
+<br>07. Scott Rill - Back 2 U</br>
+<br>08. Mauricio Cury - Trumpet</br>
+<br>09. WILL K - The Way</br>
+<br>10. Slap House, Alok, Steve Aoki - Typical (feat. Lars Martin)</br>
+<br>11. Alok, Steve Aoki, Lars Martin - Typical</br>
+<br>12. Remundo - Dancing Like This</br>
+<br>13. SUBSIDE, Milkwish - Euphorica</br>
+<br>14. Skyline Project - By Your Side</br>
+<br>15. Grum - Afterglow (feat. Natalie Shay)</br>
+<br>16. David Guetta, Ty Dolla $ign, A Boogie Wit da Hoodie – Family (ft. Bebe Rexha) [Guetta Down Tempo Rmx]</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/30/29/aa/62601345b1872fc7501bfe025f.mp3" type="audio/mp3" length="57617490"/>
+			<guid isPermaLink="false">tsof-radio-044</guid>
+			<pubDate>Sat, 25 Dec 2021 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's TSOF: Radio has world premieres and brand new music By DubVision, Alok, No Hero, Norni, Armin van Buuren, VINNE, Scott Rill and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #43</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
