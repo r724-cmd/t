@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://radio.thespaceoffuture.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 01 Jan 2022 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 01 Jan 2022 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 15 Jan 2022 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 15 Jan 2022 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -28,7 +28,44 @@
 		<itunes:subtitle><![CDATA[The Space Of Future: Radio]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://radio.thespaceoffuture.com/podcast/podcast.xml</itunes:new-feed-url>
-		
+		<item>
+			<title>The Space Of Future: Radio #47</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF046 has world premieres and brand new music By TV Noise, Tritonal, Daxsti, Martin Jensen, Nicky Romero, Steff Da Campo, EWAVE and many more.</p>
+
+<p>Tracklist: -  <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. TV Noise - Astral</br>
+<br>03. Tritonal, Codeko - Superhuman (Ferry Corsten Remix)</br>
+<br>04. Martin Jensen, Cheat Codes, Theresa Rex - Running</br>
+<br>05. Daxsti - Sippin' On My Lean [RAX Label]</br>
+<br>06. JIRICO- SHAKE & BOUNCE</br>
+<br>07. Blackcode, David Allen, Jordan Grace - One</br>
+<br>08. Nicky Romero, GATTÜSO, Jared Lee - Afterglow</br>
+<br>09. Steff Da Campo - Hot In Here</br>
+<br>10. Thomas Feelman, Deagon - Evolution</br>
+<br>11. N-ZTON - Sex On A Plane</br>
+<br>12. Future Class, ARNEEW - Give Me</br>
+<br>13. EWAVE, Castion - Hey Mickey</br>
+<br>14. Roc Dubloc, Gid Sedgwick - Ready Or Not</br>
+<br>15. David Guetta, MORTEN, Roland Clark - Alive Again</br>
+<br>16. DØBER, Savage Kids, Rushline - The Light</br>
+<br>17. Mordkey, Sonny Bass - Stranger Danger (ft. Issac Frank)</br>
+<br>18. SMACK, No Thanks - No Man (feat. WEiRD GRRL)</br>
+<br>19. Daav One - Alone</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/78/6d/e6/fdfb9a48239b16006352f4c768.mp3" type="audio/mp3" length="72021783"/>
+			<guid isPermaLink="false">tsof-radio-047</guid>
+			<pubDate>Sat, 15 Jan 2022 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF045 has world premieres and brand new music By TV Noise, Tritonal, Daxsti, Martin Jensen, Nicky Romero, Steff Da Campo, EWAVE and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #46</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
