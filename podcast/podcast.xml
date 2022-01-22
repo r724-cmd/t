@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://podcasts.raxlabel.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 15 Jan 2022 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 15 Jan 2022 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 22 Jan 2022 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 22 Jan 2022 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://thespaceoffuture.com/</link>
 		<language>en-us</language>
@@ -30,6 +30,41 @@
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
+		<item>
+			<title>The Space Of Future: Radio #48</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF048 has world premieres and brand new music By Julian Jordan, Avao, Axline, Tritonal, Matisse & Sadko, Jay Hardway, Sander van Doorn and many more.</p>
+
+<p>Tracklist: -  <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Julian Jordan - Sound Of The Bass</br>
+<br>03. Avao - Text Me</br>
+<br>04. Axline - Icicle</br>
+<br>05. Tritonal, Codeko - Superhuman</br>
+<br>06. Matisse & Sadko - Witchcraft</br>
+<br>07. Jay Hardway, RetroVision - I Wanna</br>
+<br>08. Matisse & Sadko, Arsnøvä - Into The Fire</br>
+<br>09. Aurelios - I've Had Enough</br>
+<br>10. JLV - Never Coming Down</br>
+<br>11. Sander van Doorn - Temper Temper (feat. ONR)</br>
+<br>12. Vluarr, Crime Zcene - Go Down</br>
+<br>13. Anyma - Running (feat. Meg Myers)</br>
+<br>14. BLVNCO, DØBER - Do It</br>
+<br>15. G-Pol, Nkzz - Lies</br>
+<br>16. VJS - Midnight</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/aa/29/3d/2cc2de49abaa8845296b27aa8f.mp3" type="audio/mp3" length="57617490"/>
+			<guid isPermaLink="false">tsof-radio-048</guid>
+			<pubDate>Sat, 22 Jan 2022 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF048 has world premieres and brand new music By Julian Jordan, Avao, Axline, Tritonal, Matisse & Sadko, Jay Hardway, Sander van Doorn and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #47</title>
 			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
