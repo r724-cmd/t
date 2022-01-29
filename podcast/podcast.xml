@@ -29,7 +29,43 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #49</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF049 has world premieres and brand new music By Hooders, Zedd, Yves V, Kaskade, Kura, BLVNCO, ARTY and many more.</p>
+
+<p>Tracklist: -  <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Hooders - Move Like</br>
+<br>03. Disclosure, Zedd - You've Got To Let Go If You Want To Be Free</br>
+<br>04. Yves V, Cat Dealers – Just Wanna Be Loved</br>
+<br>05. Poo Bear, Joel Corry - Distant Shore (Joel Corry Remix)</br>
+<br>06. Kaskade, Ella Vos - Miles To Go</br>
+<br>07. Kura, Vedenzo - Thinking About You</br>
+<br>08. BLVNCO, DØBER - Do It</br>
+<br>09. Raven & Kreyn, Mingue - Be Better</br>
+<br>10. ARTY - Those Eyes (feat. Griff Clawson) [MOTi Remix]</br>
+<br>11. Chester Young - PYRO</br>
+<br>12. NUZB - Retrograde</br>
+<br>13. Raven, Kreyn, Jeonghyeon - Out Of Me</br>
+<br>14. Avicii - Without You (ft. Sandro Cavazza) [Otto Knows Remix]</br>
+<br>15. Armin van Buuren, Sam Gray - Human Touch</br>
+<br>16. Tungevaag - In My Zone</br>
+<br>17. Dimitri Vangelis & Wyman, Mike Perry - Lighters</br>
+<br>16. DJ DOGGY! - Arcade</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/aa/29/3d/2cc2de49abaa8845296b27aa8f.mp3" type="audio/mp3" length="57617490"/>
+			<guid isPermaLink="false">tsof-radio-049</guid>
+			<pubDate>Sat, 29 Jan 2022 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF049 has world premieres and brand new music By Hooders, Zedd, Yves V, Kaskade, Kura, BLVNCO, ARTY and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #48</title>
 			<link><![CDATA[https://play.raxlabel.com/PLOT/]]></link>
