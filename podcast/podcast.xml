@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://podcasts.raxlabel.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 22 Jan 2022 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 22 Jan 2022 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 05 Feb 2022 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 05 Feb 2022 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://tsof.raxlabel.com/</link>
 		<language>en-us</language>
@@ -29,6 +29,42 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #50</title>
+			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF050 has world premieres and brand new music By Steve Aoki, Alok, Sikdope, Will Sparks, Alvin & STAR, EDX, Low Blow and many more.</p>
+
+<p>Tracklist: -  <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Sikdope - Better</br>
+<br>03. Will Sparks, New World Sound - LSD</br>
+<br>04. Martin Garrix - No Sleep (feat. Bonn) [DubVision Remix]</br>
+<br>05. Futuristic Polar Bears, HAVOQ, Diandra Faye - The One</br>
+<br>06. Alvin & STAR - Give In</br>
+<br>07. Jeffrey Sutorius - Younger</br>
+<br>08. Future Bounce Raven, Kreyn - Be Better (feat. Mingue)</br>
+<br>09. EDX - On My Mind</br>
+<br>10. Steve Aoki, Shaquille O'Neal - Welcome to The PlayHouse</br>
+<br>11. Klingande, Merk & Kremont, MKLA - Planet In The Sky (feat. MKLA)</br>
+<br>12. Bleu Clair - Better Things (feat. Tania Foster)</br>
+<br>13. Marc Benjamin - When The Sounds Disappear</br>
+<br>14. Nicky Romero, Low Blow - See You On The Dancefloor</br>
+<br>15. KAIOS - Zanzara</br>
+<br>16. Alok – Side Effect (feat. AuRa)</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/aa/29/3d/2cc2de49abaa8845296b27aa8f.mp3" type="audio/mp3" length="57617490"/>
+			<guid isPermaLink="false">tsof-radio-050</guid>
+			<pubDate>Sat, 05 Feb 2022 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF050 has world premieres and brand new music By Steve Aoki, Alok, Sikdope, Will Sparks, Alvin & STAR, EDX, Low Blow and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #49</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
