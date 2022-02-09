@@ -27,10 +27,10 @@
   <body data-home-page="https://website1391134.nicepage.io/HOME.html?version=af4cb1ff-87b5-4d3c-ab8b-3a9850cd4312" data-home-page-title="HOME" class="u-body u-xl-mode">
     <section class="u-align-center u-clearfix u-image u-shading u-section-1" src="" data-image-width="256" data-image-height="256" id="sec-d201">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <a href="https://nicepage.com/c/medicine-science-html-templates" class="u-image u-logo u-image-1" data-image-width="1280" data-image-height="1280">
+        <a href="https://podcasts.raxlabel.com/" class="u-image u-logo u-image-1" data-image-width="1280" data-image-height="1280">
           <img src="images/20220101_003137.png" class="u-logo-image u-logo-image-1">
         </a>
-        <h1 class="u-text u-title u-text-1">Podcast Service</h1>
+        <h1 class="u-text u-title u-text-1"></h1>
         <div class="u-clearfix u-custom-html u-custom-html-1">
           <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1236099670&amp;color=%232c3213&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
           <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
