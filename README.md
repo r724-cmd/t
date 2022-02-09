@@ -6,7 +6,7 @@
     <meta name="keywords" content="Podcast Service">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>HOME</title>
+    <title>RAX Label Podcast Servise</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
 <link rel="stylesheet" href="HOME.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery-1.9.1.min.js" defer=""></script>
@@ -27,7 +27,7 @@
     <meta property="og:type" content="website">
     <link rel="canonical" href="/">
   </head>
-  <body data-home-page="https://website1391134.nicepage.io/HOME.html?version=ec7978a7-ff13-429e-a3c8-7e69ba9a4f75" data-home-page-title="HOME" class="u-body u-xl-mode">
+  <body data-home-page="https://website1391134.nicepage.io/HOME.html" data-home-page-title="RAX Label Podcast Servise" class="u-body u-xl-mode">
     <section class="u-align-center u-clearfix u-gradient u-section-1" src="" id="sec-d201">
       <div class="u-clearfix u-sheet u-sheet-1">
         <a href="https://podcasts.raxlabel.com/" class="u-image u-logo u-image-1" data-image-width="1280" data-image-height="1280" title="RAX Label">
