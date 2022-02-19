@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://podcasts.raxlabel.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 12 Feb 2022 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 12 Feb 2022 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 19 Feb 2022 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 19 Feb 2022 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://tsof.raxlabel.com/</link>
 		<language>en-us</language>
@@ -30,10 +30,44 @@
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #52</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF052 has world premieres and brand new music By Spencer Newell, Armin van Buuren, Shallou, ANG, Adrian van Sin, Jax Jones, Joel Corry and many more.</p>
+
+<p>Tracklist: -  <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Spencer Newell - Factor 32 [RAX Label]</br>
+<br>03. Armin van Buuren, Reinier Zonneveld, Roland Clark - We Can Dance Again</br>
+<br>04. Shallou - Corners (KC Lights Remix)</br>
+<br>05. Julian Jordan - Hyper</br>
+<br>06. ANG, Kazhi - We Don't Care (feat. Khazi) [SaberZ Remix]</br>
+<br>07. Adrian van Sin - Bounce [RAX Label]</br>
+<br>08. Nicky Romero, Timmo Hendriks - Into The Light (ft. David Shane)</br>
+<br>09. Jax Jones - Where Did You Go (feat. MNEK)</br>
+<br>10. Bart B More - Never Let It Go</br>
+<br>11. Joel Corry, Lekota - What I Need</br>
+<br>12. Kamix, Cl04k - Million Years</br>
+<br>13. Disco Fries, Triple M - My Thing</br>
+<br>14. DJ DOGGY! - The Punch! [RAX Label]</br>
+<br>15. Tim Hox, Vessbroz - Vivimus</br>
+<br>16. Shy Baboon, Matisse & Sadko - I Told You</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/59/97/b8/26bacb4597a4c47f22b15f1f60.mp3" type="audio/mp3" length="72021783"/>
+			<guid isPermaLink="false">tsof-radio-051</guid>
+			<pubDate>Sat, 19 Feb 2022 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF052 has world premieres and brand new music By Spencer Newell, Armin van Buuren, Shallou, ANG, Adrian van Sin, Jax Jones, Joel Corry and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #51</title>
-			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
 			<description><![CDATA[<p> ON-AIR! This week's #TSOF051 has world premieres and brand new music By Alvin, JIRICO, Aryue, Tritonal, FAKE ID, Bleu Clair, VINAI and many more.</p>
 
 <p>Tracklist: -  <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
@@ -67,7 +101,7 @@
 		</item>
 		<item>
 			<title>The Space Of Future: Radio #50</title>
-			<link><![CDATA[https://www.thespaceoffuture.com/]]></link>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
 			<description><![CDATA[<p> ON-AIR! This week's #TSOF050 has world premieres and brand new music By Steve Aoki, Alok, Sikdope, Will Sparks, Alvin & STAR, EDX, Low Blow and many more.</p>
 
 <p>Tracklist: -  <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
