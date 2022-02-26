@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://podcasts.raxlabel.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 19 Feb 2022 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 19 Feb 2022 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 26 Feb 2022 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 26 Feb 2022 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://tsof.raxlabel.com/</link>
 		<language>en-us</language>
@@ -30,6 +30,44 @@
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #53</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF053 has world premieres and brand new music By Aluna, R3HAB, NUZB, TV Noise, KhoMha, Steerner, NormalBoy and many more.</p>
+
+<p>Tracklist: -  <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Aluna, Diplo, Durante - Forget About Me (Eden Prince Remix)</br>
+<br>03. R3HAB, Saucy Santana - Put Your Hands On My</br>
+<br>04. NUZB - Shake It</br>
+<br>05. TV Noise - Hold Up</br>
+<br>06. KhoMha, Nezzah - Magia</br>
+<br>07. Nicky Romero, Almero - So Much Love</br>
+<br>08. twocolors - Lovefool (Nicky Romero Remix)</br>
+<br>09. Sagan, Gidro - Love In My Heart</br>
+<br>10. Ado Woodz - Dark Space</br>
+<br>11. AKA AKA, Lackmus - Bounce</br>
+<br>12. BURNS, Robin Schulz - Talamanca</br>
+<br>13. Steerner - Better</br>
+<br>14. ARTY, Rozzi - Who Do You Love</br>
+<br>15. Hot Shade, Mike Perry - I Like it</br>
+<br>16. Julian Jordan - Out Of My Mind</br>
+<br>17. R3SPAWN, Nain - I Got It 4 U</br>
+<br>18. NormalBoy - Lucid Dream [RAX Label]</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/af/b1/dc/5357bc4a40bcf6059c801f6d6d.mp3" type="audio/mp3" length="57620178"/>
+			<guid isPermaLink="false">tsof-radio-053</guid>
+			<pubDate>Sat, 26 Feb 2022 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF053 has world premieres and brand new music By Aluna, R3HAB, NUZB, TV Noise, KhoMha, Steerner, NormalBoy and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #52</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
