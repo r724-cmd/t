@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://podcasts.raxlabel.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 02 Apr 2022 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 02 Apr 2022 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 09 Apr 2022 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 09 Apr 2022 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://tsof.raxlabel.com/</link>
 		<language>en-us</language>
@@ -29,6 +29,44 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #60</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF060 has world premieres and brand new music By BEAUZ, Lucas & Steve, Declain, Martin Garrix, Codeko, Timmy Trumpet, Öwnboss and many more.</p>
+
+<p>Tracklist: -  <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. BEAUZ & NOTD - Keep You Mine 银河</br>
+<br>03. Lucas & Steve, MARF - Give Me Your Love</br>
+<br>04. Declain & Elle Vee - Favorite Person</br>
+<br>05. Martin Garrix & Brooks - Quantum</br>
+<br>06. Mike Williams - Pretty Little Words (feat. Zack Hall)</br>
+<br>07. Codeko & April Bender - Not Alone</br>
+<br>08. Menna - Fantasies</br>
+<br>09. Timmy Trumpet - Just In Case</br>
+<br>10. Alle Farben & Keanu Silva - Music Sounds Better With You</br>
+<br>11. Teqkoi & Aiko - You Broke My Heart Again (Robin Schulz Remix)</br>
+<br>12. Air</br>
+<br>13. Ryos & Dastic - That I Know</br>
+<br>14. Martin Garrix & Vluarr - Reboot</br>
+<br>15. Don Diablo x Dominica - Gotta Let U Go</br>
+<br>16. Öwnboss - Move Your Body (Tiësto Edit)</br>
+<br>17. Navos x Galantis - What It Feels Like feat. You</br>
+<br>17. PBH & Jack x Hannah Boleyn - Summer Never Ends</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/34/03/44/fd82384e1dab72eec8e4cb7edb.mp3" type="audio/mp3" length="57620178"/>
+			<guid isPermaLink="false">tsof-radio-060</guid>
+			<pubDate>Sat, 09 Apr 2022 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF060 has world premieres and brand new music By BEAUZ, Lucas & Steve, Declain, Martin Garrix, Codeko, Timmy Trumpet, Öwnboss and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #59</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
