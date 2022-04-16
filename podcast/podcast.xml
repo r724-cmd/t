@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://podcasts.raxlabel.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 09 Apr 2022 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 09 Apr 2022 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 16 Apr 2022 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 16 Apr 2022 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://tsof.raxlabel.com/</link>
 		<language>en-us</language>
@@ -29,7 +29,42 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #61</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF061 has world premieres and brand new music By Guardelion, Hellberg, Hardwell, Martin Garrix, Kyau & Albert, ARTY, Seth Hills and many more.</p>
+
+<p>Tracklist: -  <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Guardelion - Fallen Angel</br>
+<br>03. Hellberg - Let You Down (feat. Magsy)</br>
+<br>04. Hardwell - Fcking Society</br>
+<br>05. Martin Garrix, Dubvision, Shaun Farrugia - Starlight (Keep Me Afloat)</br>
+<br>06. Martin Garrix, Matisse & Sadko - Good Morning</br>
+<br>07. Kyau & Albert, Steve Brian - Novel</br>
+<br>08. ARTY - So Good To Me</br>
+<br>09. Seth Hills, Lucky Lou - For U</br>
+<br>10. Funkin Matt - Neo</br>
+<br>11. Jay Hardway - My Sweet Heaven (feat. Stealth)</br>
+<br>12. Westend, Millean -  Feel (feat. MarynCharlie)</br>
+<br>13. Diplo, Miguel - Dont Forget My Love (John Summit Remix)</br>
+<br>14. Kungs, Öwnboss, Selva - Clap Your Hands</br>
+<br>15. OBS - Ready Or Not</br>
+<br>16. Madism - All For You</br>
+<br>17. Swedish House Mafia Sting - Redlight</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/cc/c5/6a/2b47294fb5bd9918ed5fc93310.mp3" type="audio/mp3" length="72025143"/>
+			<guid isPermaLink="false">tsof-radio-061</guid>
+			<pubDate>Sat, 16 Apr 2022 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF061 has world premieres and brand new music By Guardelion, Hellberg, Hardwell, Martin Garrix, Kyau & Albert, ARTY, Seth Hills and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #60</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
