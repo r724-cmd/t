@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://podcasts.raxlabel.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 16 Apr 2022 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 23 Apr 2022 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 30 Apr 2022 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 30 Apr 2022 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://tsof.raxlabel.com/</link>
 		<language>en-us</language>
@@ -29,6 +29,42 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #63</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF062 has world premieres and brand new music By Savix, Alan Walker, Martin Garrix, Nicky Romero, BURNS, SLANDER, Aiobahn and many more.</p>
+
+<p><strong>Tracklist:</strong> <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Savix - In My Grave</br>
+<br>03. TELYKast, Bryce Fox - Burn Fast (TELYKast Remix)</br>
+<br>04. Justin Mylo, STRNGRS - I Remember</br>
+<br>05. Tiësto, Deorro - Savage</br>
+<br>06. Alan Walker - The Drum</br>
+<br>07. Martin Garrix, DubVision - Oxygen (feat. Jordan Grace)</br>
+<br>08. Nicky Romero - Pressure</br>
+<br>09. Martin Garrix, Shaun Farrugia - If Well Ever Be Remembered</br>a
+<br>10. BURNS - Talamanca (Robin Schulz Remix)</br>
+<br>11. SLANDER, Dylan Matthew - Love Is Gone (Kaskade Remix)</br>
+<br>12. Trivecta, Gem & Tauri - Hear My Call (feat. Tyler Graves)</br>
+<br>13. Armin van Buuren, Florentin, Jordan Grace - Echoes</br>
+<br>14. Tensnake, Cara Melín - Antibodies (LP Giobbi Remix)</br>
+<br>15. Aiobahn, 茶太 - heart 2 heart</br>
+<br>16. Maurice West - Outta Control Again</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/00/7e/64/7ff6f64655ad65c75d9623372b.mp3" type="audio/mp3" length="72025143"/>
+			<guid isPermaLink="false">tsof-radio-063</guid>
+			<pubDate>Sat, 30 Apr 2022 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF062 has world premieres and brand new music By Savix, Alan Walker, Martin Garrix, Nicky Romero, BURNS, SLANDER, Aiobahn and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #62</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
