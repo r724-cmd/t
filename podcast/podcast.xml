@@ -15,7 +15,8 @@
 			<url>https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg</url>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
 		</image>
-		<itunes:summary><![CDATA[Make sure you tune in every week to catch up to all latest tunes, remixes, bootlegs and more! More info: https://tsof.raxlabel.com]]></itunes:summary>
+		<itunes:summary><![CDATA[<p>Make sure you tune in every week to catch up to all latest tunes, remixes, bootlegs and more!</p> 
+<p>More info: https://tsof.raxlabel.com</p>]]></itunes:summary>
 		<itunes:author>TSOF: Radio</itunes:author>
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:category text="Music"/>
@@ -24,7 +25,8 @@
 			<itunes:name>TSOF: Radio</itunes:name>
 			<itunes:email>tsof@raxlabel.com</itunes:email>
 		</itunes:owner>
-		<description><![CDATA[Make sure you tune in every week to catch up to all latest tunes, remixes, bootlegs and more! More info: https://tsof.raxlabel.com]]></description>
+		<description><![CDATA[<p>Make sure you tune in every week to catch up to all latest tunes, remixes, bootlegs and more!</p> 
+<p>More info: https://tsof.raxlabel.com</p>]]></description>
 		<itunes:subtitle><![CDATA[The Space Of Future: Radio]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
