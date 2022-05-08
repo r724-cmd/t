@@ -3,8 +3,8 @@
 	<channel>
 		<atom:link href="https://podcasts.raxlabel.com/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>The Space Of Future: Radio</title>
-		<pubDate>Sat, 30 Apr 2022 03:42:20 +0000</pubDate>
-		<lastBuildDate>Sat, 30 Apr 2022 03:42:20 +0000</lastBuildDate>
+		<pubDate>Sat, 07 May 2022 03:42:20 +0000</pubDate>
+		<lastBuildDate>Sat, 07 May 2022 03:42:20 +0000</lastBuildDate>
 		<generator>castbox.fm</generator>
 		<link>https://tsof.raxlabel.com/</link>
 		<language>en-us</language>
@@ -29,7 +29,45 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #64</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF064 has world premieres and brand new music By COLDKIDS, Quintino, Blackcode, Severman, Dizaro, ARMNHMR, Otherwise Fine and many more.</p>
+
+<p><strong>Tracklist:</strong> <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target="_blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Quintino - No Time</br>
+<br>03. Blackcode, HAVOQ, EMMA LX - I Don't Wanna Know</br>
+<br>04. Severman, Firaz, Annamarie Rosanio - Made It</br>
+<br>05. Dizaro - All U Need</br>
+<br>06. ARMNHMR, Caslow - Never Gets You Back (ft. Kwesi)</br>
+<br>07. Otherwise Fine - Shipwreck (feat. Emily Rowed)</br>
+<br>08. Becky Hill, Galantis - Run (Melé Remix)</br>
+<br>09. Electric Polar Bears - Too Good To Lose (feat. The Ready Set)</br>a
+<br>10. DubVision, The Him, Eleganto - Sometimes (Eleganto Remix)</br>
+<br>11. Jonas Blue, Sam Feldt, Sam DeRosa, Endless Summer - Till The End</br>
+<br>12. Armin van Buuren, Shapov - Let's Rave, Make Love</br>
+<br>13. Chester Young - Rockin'</br>
+<br>14. Joel Corry, David Guetta - What Would You Do? (feat. Bryson Tiller) [Alle Farben Remix]</br>
+<br>15. Palane - Live And Die Together</br>
+<br>16. Viiq, Disco Fries - Heartless</br>
+<br>16. Fly By Midnight - North</br>
+<br>16. Gryffin - Alive (with Calle Lehmann)</br>
+<br>16. Richello - All We Are</br>
+<br>16. COLDKIDS - Fairyland</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>TSOF: Radio</author>
+			<enclosure url="https://s3.castbox.fm/be/a4/af/647aea428787a546acc5821611.mp3" type="audio/mp3" length="72025143"/>
+			<guid isPermaLink="false">tsof-radio-063</guid>
+			<pubDate>Sat, 07 May 2022 03:42:20 +0000</pubDate>
+			<itunes:author>TSOF: Radio</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF064 has world premieres and brand new music By COLDKIDS, Quintino, Blackcode, Severman, Dizaro, ARMNHMR, Otherwise Fine and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #63</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
