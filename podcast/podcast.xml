@@ -32,7 +32,46 @@
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #80</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF080 has world premieres and brand new music By Tobu, Mike Williams, Armin van Buuren, Jeffrey Sutorius, David Guetta, Joel Del Lüna, Caseet and many more.</p>
+
+<p><strong>Tracklist:</strong> <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target=" blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Tobu - Spanish Boy</br>
+<br>03. Mike Williams, Matluck - Closing Time</br>
+<br>04. Armin van Buuren - Clap</br>
+<br>05. Jeffrey Sutorius, HALIENE - Kings (Shogun Remix)</br>
+<br>06. Joel Del Lüna - Thinking About You</br>
+<br>07. David Guetta, Bebe Rexha - I'm Good (Blue)</br>
+<br>08. Felix Jaehn - Winds May Change</br>
+<br>09. Don Diablo, PnB Rock, Boaz van de Beatz - No Piensa (VIP Mix)</br>
+<br>10. R3HAB - Sway My Way (with Amy Shark) [Karim Naas Remix]</br>
+<br>11. Nicky Romero, EDX - Out Of Control</br>
+<br>12. Syn Cole, Alida - Shadow</br>
+<br>13. Marshmello, Khalid - Numb (DJ YUKI Remix)</br>
+<br>14. Alok - Always Feel Like</br>
+<br>15. Sam Feldt, David Solomon - Future In Your Hands (feat. Aloe Blacc)</br>
+<br>16. Slushii - Smoke</br>
+<br>17. VRBAN - Can't Make You Stay</br>
+<br>18. Cheat Codes, Russell Dickerson - I Remember</br>
+<br>19. Jonas Blue - Perfect Strangers (ft. JP Cooper)</br>
+<br>20. Zara Larsson - Lush Life</br>
+<br>21. Caseet - Ilusiones De La Mentee</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>ROYANT</author>
+			<enclosure url="https://s3.castbox.fm/df/bc/47/cc68c0478c9f98d44137f56b7b.mp3" type="audio/mp3" length="57617499"/>
+			<guid isPermaLink="false">tsof-radio-080</guid>
+			<pubDate>Sat, 27 Aug 2022 03:42:20 +0000</pubDate>
+			<itunes:author>ROYANT</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF080 has world premieres and brand new music By Tobu, Mike Williams, Armin van Buuren, Jeffrey Sutorius, David Guetta, Joel Del Lüna, Caseet and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #79</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
