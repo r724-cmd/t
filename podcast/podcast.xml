@@ -31,6 +31,45 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #85</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF085 has world premieres and brand new music By Nils Hoffmann, Bhaskar, PBH & Jack, BYOR, LOOPERS, FISHER, James Hype, and many more.</p>
+
+<p><strong>Tracklist:</strong> <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target=" blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. KVSH, Schillist Ray, Ben - Be Someone</br>
+<br>03. Nils Hoffmann - Immunity</br>
+<br>04. Bhaskar - Hours and Hours</br>
+<br>05. MEDUZA & James Carter - Bad Memories (feat. Elley Dehé & Fast Boy)</br>
+<br>06. PBH & Jack - Set The Tempo (feat. HQA)</br>
+<br>07. BYOR - Flavor</br>
+<br>08. LOOPERS - Transcendence</br>
+<br>09. FISHER - The Girls (feat. Meryll)</br>
+<br>10. James Hype - Crank</br>
+<br>11. OFFAIAH - Find A Way</br>
+<br>12. JYYE, SHELLS - Need You Now</br>
+<br>13. Shiba San, Black V Neck, Nautik - Ba Da Bam</br>
+<br>14. Low Steppa - Stand By Me</br>
+<br>15. Sevek - Cathedral (Piece Of Me) [feat. JEN]</br>
+<br>16. Space Ducks - Panic</br>
+<br>17. Julian Jordan - Noise</br>
+<br>18. Martin Garrix, Brooks - Quantum</br>
+<br>19. Mike Hernandez - Rituals</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>ROYANT</author>
+			<enclosure url="https://s3.castbox.fm/9d/b2/ce/0140864223a29b47e609946415.mp3" type="audio/mp3" length="72021792"/>
+			<guid isPermaLink="false">tsof-radio-085</guid>
+			<pubDate>Sat, 01 Oct 2022 03:42:20 +0000</pubDate>
+			<itunes:author>ROYANT</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF085 has world premieres and brand new music By Nils Hoffmann, Bhaskar, PBH & Jack, BYOR, LOOPERS, FISHER, James Hype, and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #84</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
