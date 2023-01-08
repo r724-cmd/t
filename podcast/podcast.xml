@@ -31,6 +31,48 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #96</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF096 has world premieres and brand new music By SMACK, Alok, Joel Corry, Nervo, Kohen, Giorgio Gee, and many more.</p>
+
+<p><strong>Tracklist:</strong> <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target=" blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. SMACK & No Thanks - No Man (feat. WEiRD GRRL)</br>
+<br>03. Alok, Sigala & Ellie Goulding - All By Myself</br>
+<br>04. Joel Corry & Tom Grennan - Lionheart (Fearless)</br>
+<br>05. Nervo - Giving It All</br>
+<br>06. Kohen, Mert Can & Garonzos - Overload</br>
+<br>07. Yves V & Bhaskar - Round My Head (Kohen & LIVA Remix)</br>
+<br>08. Giorgio Gee & Mojjo - Hold On</br>
+<br>09. Miane feat. Camden Cox - Fears In The Fire</br>
+<br>10. Melsen & Nadia Gattas - Give Me Your Love</br>
+<br>11. Example - Kickstarts</br>
+<br>12. Nero - 2 Minds</br>
+<br>13. Tiësto ft. Tate McRae - 1035</br>
+<br>14. M-22 & Ella Henderson - Heartstrings</br>
+<br>15. Alok - Always Feel Like</br>
+<br>16. James Hype & Tita Lau - B2B</br>
+<br>17. Tough Love & Echoes - Escape</br>
+<br>18. Regard x Drop G - No Love For You</br>
+<br>19. Alok - Slow It Down</br>
+<br>20. Öwnboss & FAST BOY - Left & Right</br>
+<br>21. Bhaskar & rrotik - Coming Down</br>
+<br>22. BRYNT Music - Lunar</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>ROYANT</author>
+			<enclosure url="https://s3.castbox.fm/87/a2/d4/1c86be4154a90afb972bac5a2a.mp3" type="audio/mp3" length="55060981"/>
+			<guid isPermaLink="false">tsof-radio-096</guid>
+			<pubDate>Sat, 17 Dec 2022 03:42:20 +0000</pubDate>
+			<itunes:author>ROYANT</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF096 has world premieres and brand new music By SMACK, Alok, Joel Corry, Nervo, Kohen, Giorgio Gee, and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #95</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
