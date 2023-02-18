@@ -31,7 +31,44 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #102</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF102 has world premieres and brand new music By LRaven & Kreyn, ID, Neon Steve, Mark Ursa, Kid Massive, JLV, and many more.</p>
+
+<p><strong>Tracklist:</strong> <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target=" blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Raven & Kreyn - Lift Your Voices</br>
+<br>03. ID - Breathe</br>
+<br>04. Neon Steve & Black Caviar - Drug Test (ft. Tima Dee)</br>
+<br>05. Mark Ursa & Yves Larock - Call my name</br>
+<br>06. Kid Massive - Alright (Sugarstarr's 12Inch Mix)</br>
+<br>07. R3FUGE - GREECE</br>
+<br>08. JLV - Skyfall</br>
+<br>09. Robby East & Tailor - Holding Ground</br>
+<br>10. Mind Electric - Funk It Up</br>
+<br>11. Showtek & Eday - Everybody</br>
+<br>12. ZØDIAK - Higher</br>
+<br>13. Mesto - Bring It Back</br>
+<br>14. Lil Wayne - A Milli (SIDEPIECE Remix)</br>
+<br>15. Loris Buono & Alexander Cruel, Derek Reiver - Shake It Slide</br>
+<br>16. FaderX & Michael Morikito - Space Transmission</br>
+<br>17. Dirty Audio - Deep In LA</br>
+<br>18. Lady Bee, Willemijn May - 2022 (DJEAU Remix)</br>
+<br>19. Fonzerelli - Let's get Funky (Radio edit)</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>ROYANT</author>
+			<enclosure url="https://s3.castbox.fm/d2/f5/72/162f86481b8ad7fd3a2e444294.mp3" type="audio/mp3" length="56624478"/>
+			<guid isPermaLink="false">tsof-radio-102</guid>
+			<pubDate>Sat, 28 Jan 2023 03:42:20 +0000</pubDate>
+			<itunes:author>ROYANT</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF102 has world premieres and brand new music By LRaven & Kreyn, ID, Neon Steve, Mark Ursa, Kid Massive, JLV, and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #101</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
