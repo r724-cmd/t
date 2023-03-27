@@ -31,7 +31,42 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #107</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF107 has world premieres and brand new music By Hugo Florenzo, Sam Smith, Alex Mueller, Dimitri Vegas, Jimmy Clash, Zack Martino, and many more.</p>
+
+<p><strong>Tracklist:</strong> <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target=" blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Kygo - Love Me Now (Hugo Florenzo Edit)</br>
+<br>03. Sam Smith - Unholy ft. Kim Petras (David Guetta Remix)</br>
+<br>04. Alex Mueller - In My Dreams (feat. KATYA BLANCA) [Crash & Smile]</br>
+<br>05. Dimitri Vegas, David Guetta, Nicole Scherzinger, Azteck, 3 Are Legend - The Drop (3 Are Legend Remix)</br>
+<br>06. Jimmy Clash - Rave All Night</br>
+<br>07. Zack Martino - Horizon (feat. Bertie Scott)</br>
+<br>08. Meduza - Bad Memories (David Guetta Remix)</br>
+<br>09. svnjack - Never Left</br>
+<br>10. Syzz & Nora van Elken - September (Club Mix)</br>
+<br>11. David Guetta & MORTEN - Element</br>
+<br>12. ARTBAT & David Guetta — It's Ours (feat. Idris Elba)</br>
+<br>13. Daniel Portman - Night & Day</br>
+<br>14. Kx5 - Alive (ft. The Moth And The Flame) (KREAM Remix)</br>
+<br>15. MARKIS - In My Heart</br>
+<br>16. Ceas - Don't Know</br>
+<br>17. Stas Underhill - Surreal</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>ROYANT</author>
+			<enclosure url="https://s3.castbox.fm/df/1b/a2/3767e147a8abee38ca8765def1.mp3" type="audio/mp3" length="56513622"/>
+			<guid isPermaLink="false">tsof-radio-107</guid>
+			<pubDate>Sat, 04 Mar 2023 03:42:20 +0000</pubDate>
+			<itunes:author>ROYANT</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF107 has world premieres and brand new music By Hugo Florenzo, Sam Smith, Alex Mueller, Dimitri Vegas, Jimmy Clash, Zack Martino, and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #106</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
