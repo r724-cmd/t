@@ -31,6 +31,46 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
+		
+		<item>
+			<title>The Space Of Future: Radio #109</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF109 has world premieres and brand new music By Eloy Hoose, Eelke Kleijn, GIORG, Low Blow, Nicky Romero, Nora Van Elken, and many more.</p>
+
+<p><strong>Tracklist:</strong> <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target=" blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Martin Garrix, Matisse & Sadko - Hold On (feat. Michel Zitron) [Julian Jordan Remix]</br>
+<br>03. Eloy Hoose - The Ecstasy</br>
+<br>04. David Guetta, Sebastian Ingrosso, Dirty South - How Soon Is Now (eSQUIRE Epic Remix)</br>
+<br>05. Eelke Kleijn - Transmission (Armin van Buuren Remix)</br>
+<br>06. GIORG - Get Ma Call</br>
+<br>07. Low Blow, IvaX - Tupapa</br>
+<br>08. Nicky Romero, Nico & Vinz - Forever</br>
+<br>09. San Pacho - Mamacita (feat. LexBlaze)</br>
+<br>10. Jay Hardway - Electric Elephants</br>
+<br>11. Nora Van Elken - Love Run Out</br>
+<br>12. Oliver Heldens - Disco Voyager vs. Somebody's Watching Me (Oliver Heldens Mashup) (NW-Remake)</br>
+<br>13. Almero - Back Together</br>
+<br>14. Steve Brian -  Cali</br>
+<br>15. Ardo - Missed Chance</br>
+<br>16. Barbara Tucker & Plaster Hands - Follow Me (To A Place Called Love) [Marco Lys Mix]</br>
+<br>17. Ralk, Different Stage, sone. - Deeper Love</br>
+<br>18. Lewis Capaldi - Someone You Loved (Martin Garrix, ROYANT Remix)</br>
+<br>19. Kevu - Sound Of The Underground</br>
+<br>20. ID - 10 Seconds</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>ROYANT</author>
+			<enclosure url="https://s3.castbox.fm/cf/19/c9/0e00c5452f86d4ddea2691917d.mp3" type="audio/mp3" length="46196166"/>
+			<guid isPermaLink="false">tsof-radio-109</guid>
+			<pubDate>Sat, 18 Mar 2023 03:42:20 +0000</pubDate>
+			<itunes:author>ROYANT</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF109 has world premieres and brand new music By Eloy Hoose, Eelke Kleijn, GIORG, Low Blow, Nicky Romero, Nora Van Elken, and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #108</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
