@@ -31,7 +31,45 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+		<item>
+			<title>The Space Of Future: Radio #110</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF110 has world premieres and brand new music By RetroVision, VIZE, Oliver Heldens, Jax Jones, Charles B, Todd Terry, and many more.</p>
+
+<p><strong>Tracklist:</strong> <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target=" blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. Lady Gaga, Ariana Grande, Justice - Rain On Me (RetroVision Flip)</br>
+<br>03. VIZE, Goldfingers - Motive (feat. Ben Samama)</br>
+<br>04. Oliver Heldens - Disco Voyager</br>
+<br>05. Jax Jones, Calum Scott - Whistle</br>
+<br>06. Yves V - Imagine Me & You (feat. FAST BOY)</br>
+<br>07. Charles B, Lucas Butler - Tell Me</br>
+<br>08. Alok - Slow It Down</br>
+<br>09. Todd Terry, Meca, Volkoder - Little Woman (feat. Tristan Henry)</br>
+<br>10. Silk City, Dua Lipa - Electricity (ft. Diplo, Mark Ronson)</br>
+<br>11. Fred again.. - Billie (Loving Arms)</br>
+<br>12. MK, Dom Dolla - Rhyme Dust</br>
+<br>13. Metro Boomin, The Weeknd, 21 Savage - Creepin (Mister Dj Marquez Bootleg Edit)</br>
+<br>14. Schak, Kim English - Moving All Around  (Jumpin’) (John Summit Remix)</br>
+<br>15. Mau P - Gimme That Bounce</br>
+<br>16. Bhaskar & Breaking Beattz - Higher (feat. your friend polly)</br>
+<br>17. Toxic Joy - My Satisfaction</br>
+<br>18. OFFAIAH - Something In Your Eyes</br>
+<br>19. Dynamick - Bite My Tongue</br>
+<br>20. Anyma & Chris Avantgarde - Eternity</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>ROYANT</author>
+			<enclosure url="https://s3.castbox.fm/fc/7a/a4/9afe0d4457b8ce7eae745e02e7.mp3" type="audio/mp3" length="46317870"/>
+			<guid isPermaLink="false">tsof-radio-110</guid>
+			<pubDate>Sat, 25 Mar 2023 03:42:20 +0000</pubDate>
+			<itunes:author>ROYANT</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF110 has world premieres and brand new music By RetroVision, VIZE, Oliver Heldens, Jax Jones, Charles B, Todd Terry, and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #109</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
