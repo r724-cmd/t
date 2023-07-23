@@ -31,7 +31,48 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:new-feed-url>https://podcasts.raxlabel.com/podcast/podcast.xml</itunes:new-feed-url>
 		
-		
+
+
+		<item>
+			<title>The Space Of Future: Radio #117</title>
+			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
+			<description><![CDATA[<p> ON-AIR! This week's #TSOF117 has world premieres and brand new music By NOTD, Robin Schulz, Piero Pirupa, Hardwell, Snakehips, Öwnboss, and many more.</p>
+
+<p><strong>Tracklist:</strong> <a title= "The Space Of Future: Radio" href= "https://play.raxlabel.com/PLOT" target=" blank" rel= "nofollow noopener ugc">play.raxlabel.com/PLOT</a></p>
+
+<p>01. The Space Of Future - Intro
+<br>02. NOTD - AM PM [TAIGA Remix]</br>
+<br>03. Robin Schulz - Sweet Goodbye</br>
+<br>04. Swedish House Mafia, Sting - Redlight</br>
+<br>05. Piero Pirupa - We Don’t Need (Club Edit)</br>
+<br>06. Hardwell - BLACK MAGIC</br>
+<br>07. Siks & Janee - Belong (feat. Jordan Grace)</br>
+<br>08. Snakehips - WATER. (feat. Bryce Vine) [Quarterhead Remix]</br>
+<br>09. KENO, Lea König - O.M.G.</br>
+<br>10. Öwnboss, Sevek - Move Your Body</br>
+<br>11. Sonic One, twoloud, Deeperlove  - Ambulance DJ</br>
+<br>12. Alle Farben - I Need To Know (feat. Flynn)</br>
+<br>13. LOVRA - Rhymorator</br>
+<br>14. Relova & Maurice Lessing - The Feeling</br>
+<br>15. Wave Wave, Damien N-Drix - Trumpz</br>
+<br>16. Vintage Culture, Maxi Jazz - Commotion</br>
+<br>17. Jax Jones & Calum Scott - Whistle (Robin Schulz Remix)</br>
+<br>18. Lee Cabrera, Dean Mickoski & Rion S - Brainstorm</br>
+<br>19. Eelke Kleijn, Lee Cabrera - Self Control</br>
+<br>20. Sterso & SJX WRLD - Break Of Dawn [RAX Label]</br>
+<br>21. Kygo - Say Say Say (ft. Paul McCartney, Michael Jackson)</br></p>
+
+<p>A weekly selection of tracks that I love to listen to at home or play out at a party. New episodes Uploaded Weekly.</p>]]></description>
+			<author>ROYANT</author>
+			<enclosure url="https://s3.castbox.fm/71/d8/ed/c2e20d40979fa0fd96d7d29ec3.mp3" type="audio/mp3" length="45442800"/>
+			<guid isPermaLink="false">tsof-radio-117</guid>
+			<pubDate>Sat, 13 May 2023 03:42:20 +0000</pubDate>
+			<itunes:author>ROYANT</itunes:author>
+			<itunes:summary><![CDATA[ ON-AIR! This week's #TSOF117 has world premieres and brand new music By NOTD, Robin Schulz, Piero Pirupa, Hardwell, Snakehips, Öwnboss, and many more.]]></itunes:summary>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:01</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/raxlabel/p/main/new%20002.jpg" />
+		</item>
 		<item>
 			<title>The Space Of Future: Radio #116</title>
 			<link><![CDATA[https://tsof.raxlabel.com/]]></link>
